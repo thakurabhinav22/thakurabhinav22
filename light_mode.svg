@@ -55,10 +55,6 @@ text, tspan {white-space: pre;}
 <tspan x="400" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">abhinavthakurv22@gmail.com</tspan>
 <tspan x="400" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">linkedin.com/in/thakurabhinav22/</tspan>
 <tspan x="400" y="410" class="keyColor">Instagram</tspan>: <tspan class="valueColor">i_am_not_spidey</tspan>
-<!-- <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
-<tspan x="370" y="470">——————</tspan>
-<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">25</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">40</tspan>}  | <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">1,200</tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">150</tspan>
-<tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">50</tspan> | <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">150,000</tspan> (<tspan class="addColor">200,000++</tspan>, <tspan class="delColor">50,000--</tspan>) -->
 </text>
 
 </svg>
