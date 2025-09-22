@@ -53,12 +53,13 @@ text, tspan {white-space: pre;}
 <tspan x="400" y="350">——————</tspan>
 <tspan x="400" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">abhinavthakurv22@gmail.com</tspan>
 <tspan x="400" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">linkedin.com/in/thakurabhinav22</tspan>
-<tspan x="400" y="410" class="keyColor">Portfolio</tspan>: <tspan class="valueColor"><a href = "https://iamabhinavthakur.verce.app" >iamabhinavthakur.vercel.app </a></tspan>
+<tspan x="400" y="410" class="keyColor">Portfolio</tspan>: <tspan class="valueColor"><a href = "https://iamabhinavthakur.vercel.app" >iamabhinavthakur.vercel.app </a></tspan>
 <tspan x="400" y="430" class="keyColor">Instagram</tspan>: <tspan class="valueColor">abhi9av_thakur</tspan>
 
 </text>
 
 </svg>
+
 
 
 
