@@ -39,21 +39,24 @@ text, tspan {white-space: pre;}
 <tspan x="400" y="30">thakurabhinav22</tspan>
 <tspan x="400" y="50">——————</tspan>
 <tspan x="400" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Debian Linux</tspan>
-<tspan x="400" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">1 Year+</tspan>
+<tspan x="400" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">3 Year+</tspan>
 <tspan x="400" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Asus Vivobook 15</tspan>
 <tspan x="400" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">5.15.0-75-generic</tspan>
 <tspan x="400" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VS Code</tspan>
-<tspan x="400" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Java, C++, JavaScript</tspan>
+<tspan x="400" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, C++, JavaScript, Kotlin, C, C# </tspan>
+  <tspan x="400" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Framework</tspan>: <tspan class="valueColor">React, Next, .net</tspan>
 <tspan x="400" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML</tspan>
 <tspan x="400" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Hindi</tspan>
 <tspan x="400" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Game Development</tspan>
-<tspan x="400" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">freeTime</tspan>: <tspan class="valueColor">Thinking Useless Stuff</tspan>
+<tspan x="400" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">FreeTime</tspan>: <tspan class="valueColor">Thinking Useless Stuff</tspan>
 <tspan x="400" y="330" class="keyColor">Contact</tspan>:
 <tspan x="400" y="350">——————</tspan>
 <tspan x="400" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">abhinavthakurv22@gmail.com</tspan>
 <tspan x="400" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">linkedin.com/in/thakurabhinav22</tspan>
+<tspan x="400" y="390" class="keyColor">Portfolio</tspan>: <tspan class="valueColor">iamabhinavthakur.vercel.app</tspan>
 <tspan x="400" y="410" class="keyColor">Instagram</tspan>: <tspan class="valueColor">abhi9av_thakur</tspan>
 
 </text>
 
 </svg>
+
