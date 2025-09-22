@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="480px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="450px" font-size="16px">
 <style>
 .keyColor {fill: #ffa657;}
 .valueColor {fill: #a5d6ff;}
@@ -49,16 +49,17 @@ text, tspan {white-space: pre;}
 <tspan x="400" y="250" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Hindi</tspan>
 <tspan x="400" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Game Development</tspan>
 <tspan x="400" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">FreeTime</tspan>: <tspan class="valueColor">Thinking Useless Stuff</tspan>
-<tspan x="400" y="350" class="keyColor">Contact</tspan>:
-<tspan x="400" y="370">——————</tspan>
-<tspan x="400" y="390" class="keyColor">Email</tspan>: <tspan class="valueColor">abhinavthakurv22@gmail.com</tspan>
-<tspan x="400" y="4100" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">linkedin.com/in/thakurabhinav22</tspan>
-<tspan x="400" y="420" class="keyColor">Portfolio</tspan>: <tspan class="valueColor">iamabhinavthakur.vercel.app</tspan>
-<tspan x="400" y="450" class="keyColor">Instagram</tspan>: <tspan class="valueColor">abhi9av_thakur</tspan>
+<tspan x="400" y="330" class="keyColor">Contact</tspan>:
+<tspan x="400" y="350">——————</tspan>
+<tspan x="400" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">abhinavthakurv22@gmail.com</tspan>
+<tspan x="400" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">linkedin.com/in/thakurabhinav22</tspan>
+<tspan x="400" y="410" class="keyColor">Portfolio</tspan>: <tspan class="valueColor">iamabhinavthakur.vercel.app</tspan>
+<tspan x="400" y="430" class="keyColor">Instagram</tspan>: <tspan class="valueColor">abhi9av_thakur</tspan>
 
 </text>
 
 </svg>
+
 
 
 
