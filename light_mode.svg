@@ -40,10 +40,10 @@ text, tspan {white-space: pre;}
 <text x="400" y="0" fill="#24292f">
 <tspan x="400" y="30">thakurabhinav22</tspan>
 <tspan x="400" y="50">——————</tspan>
-<tspan x="400" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Debian Linux</tspan>
+<tspan x="400" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Arch Linux</tspan>
 <tspan x="400" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">4 Year+ </tspan>
 <tspan x="400" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Asus Vivobook 15</tspan>
-<tspan x="400" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">5.15.0-75-generic</tspan>
+<tspan x="400" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">6.18.9-arch1-2(64-bit)</tspan>
 <tspan x="400" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VS Code</tspan>
 <tspan x="400" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, C++, JavaScript, Kotlin, C, C#</tspan>
 <tspan x="400" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, Tailwind</tspan>
