@@ -41,7 +41,7 @@ text, tspan {white-space: pre;}
 <tspan x="400" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Arch Linux</tspan>
 <tspan x="400" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">4 Year+</tspan>
 <tspan x="400" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Asus Vivobook 15</tspan>
-<tspan x="400" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">8.18.7-arch1-2(64-bit)</tspan>
+<tspan x="400" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">6.18.7-arch1-2(64-bit)</tspan>
 <tspan x="400" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VS Code</tspan>
 <tspan x="400" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, C++, JavaScript, Kotlin, C, C# </tspan>
   <tspan x="400" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Framework</tspan>: <tspan class="valueColor">React, Next, .net</tspan>
