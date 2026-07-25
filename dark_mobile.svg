@@ -87,87 +87,73 @@ text, tspan {
 
 
 @keyframes randomFlicker {
-    0%, 88% { opacity: 1; }
-    89% { opacity: 0.2; }
-    90% { opacity: 1; }
-    91% { opacity: 0.4; }
-    92% { opacity: 0.9; }
-    93% { opacity: 0.1; }
-    94% { opacity: 1; }
-    96% { opacity: 0.5; }
-    98%, 100% { opacity: 1; }
+    0%, 80% { opacity: 1; transform: scaleX(1); }
+    81% { opacity: 0.2; transform: scaleX(1); }
+    82% { opacity: 1; transform: scaleX(1); }
+    83% { opacity: 0.4; transform: scaleX(1); }
+    85% { opacity: 0.9; transform: scaleX(-1); }
+    87% { opacity: 0.1; transform: scaleX(-1); }
+    88% { opacity: 1; transform: scaleX(-1); }
+    90% { opacity: 0.5; transform: scaleX(1); }
+    92% { opacity: 1; transform: scaleX(1); }
+    93% { opacity: 0.8; transform: scaleX(1); }
+    94% { opacity: 0.2; transform: scaleX(-1); }
+    96% { opacity: 1; transform: scaleX(-1); }
+    98%, 100% { opacity: 1; transform: scaleX(1); }
 }
 .flicker {
-    animation: randomFlicker 7s infinite;
+    animation: randomFlicker 12s infinite;
     animation-delay: 5s;
+    transform-origin: center;
+    transform-box: fill-box;
 }
 
 @keyframes ghostNegative {
-    0%, 88% { opacity: 0; }
-    88.5% { opacity: 1; }
-    89% { opacity: 0; }
-    91.5% { opacity: 0.8; }
-    92% { opacity: 0; }
-    94% { opacity: 1; }
+    0%, 80% { opacity: 0; }
+    81% { opacity: 1; }
+    82% { opacity: 0; }
+    85% { opacity: 0.8; }
+    86% { opacity: 0; }
+    88% { opacity: 1; }
+    90% { opacity: 0; }
+    94% { opacity: 0.9; }
     95% { opacity: 0; }
-    99%, 100% { opacity: 0; }
+    100% { opacity: 0; }
 }
 .ghost-overlay {
-    animation: ghostNegative 7s infinite;
+    animation: ghostNegative 12s infinite;
     animation-delay: 5s;
     opacity: 0;
 }
 
 @keyframes scanlineFlicker {
-    0%, 88% { opacity: 0; }
-    89% { opacity: 0.8; }
-    90% { opacity: 0; }
+    0%, 80% { opacity: 0; }
+    81% { opacity: 0.8; }
+    82% { opacity: 0; }
+    84% { opacity: 1; }
+    88% { opacity: 0; }
     92% { opacity: 1; }
-    94% { opacity: 0; }
-    96% { opacity: 1; }
-    98%, 100% { opacity: 0; }
+    96% { opacity: 0; }
+    100% { opacity: 0; }
 }
 .scanline-overlay {
-    animation: scanlineFlicker 7s infinite;
+    animation: scanlineFlicker 12s infinite;
     animation-delay: 5s;
     opacity: 0;
 }
 
-@keyframes cursorBlink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-}
-@keyframes cursorHide {
-    to { opacity: 0; }
-}
-.cursor {
-    animation: cursorBlink 0.8s step-end 10, cursorHide 0.1s 8s forwards;
-}
-
-
-@keyframes moveCursor {
-    0% { transform: translateX(0); opacity: 0; }
-    1% { transform: translateX(0); opacity: 1; }
-    99% { transform: translateX(985px); opacity: 1; }
-    100% { transform: translateX(995px); opacity: 0; }
-}
-.typing-cursor {
-    animation: moveCursor 0.05s linear both;
-}
-
-
 @keyframes showCorrupted {
-    0%, 89% { opacity: 0; }
-    89.5% { opacity: 1; transform: translateY(-10px) skewX(20deg); }
-    90% { opacity: 0; }
-    92.5% { opacity: 1; transform: translateY(10px) skewX(-20deg); }
-    93% { opacity: 0; }
-    95.5% { opacity: 1; transform: translateY(0) skewX(0); }
+    0%, 84% { opacity: 0; }
+    85% { opacity: 1; transform: translateY(-10px) skewX(20deg); }
+    86% { opacity: 0; }
+    90% { opacity: 1; transform: translateY(10px) skewX(-20deg); }
+    91% { opacity: 0; }
+    95% { opacity: 1; transform: translateY(0) skewX(0); }
     96% { opacity: 0; }
     100% { opacity: 0; }
 }
 .corrupted-msg {
-    animation: showCorrupted 7s infinite;
+    animation: showCorrupted 12s infinite;
     animation-delay: 5s;
     opacity: 0;
     pointer-events: none;
