@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" viewBox="0 0 765 550" width="100%" height="auto" font-size="16px">
+<style>
+.keyColor {fill: #ffa657;}
+.valueColor {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="760px" height="550px" fill="#161b22" rx="15"/>
+
+<text x="15" y="30" fill="#c9d1d9">
+<tspan x="15" y="30">thakurabhinav22 -———————————————————————————————————————————-—--------------</tspan>
+<tspan x="15" y="50">. </tspan><tspan class="keyColor">OS</tspan>:<tspan> ........................................................... </tspan><tspan class="valueColor">Arch Linux</tspan>
+<tspan x="15" y="70">. </tspan><tspan class="keyColor">Uptime</tspan>:<tspan> .......................................................... </tspan><tspan class="valueColor">4 Year+</tspan>
+<tspan x="15" y="90">. </tspan><tspan class="keyColor">Host</tspan>:<tspan> ................................................... </tspan><tspan class="valueColor">Asus Vivobook 15</tspan>
+<tspan x="15" y="110">. </tspan><tspan class="keyColor">Kernel</tspan>:<tspan> ........................................... </tspan><tspan class="valueColor">6.18.7-arch1-2(64-bit)</tspan>
+<tspan x="15" y="130">. </tspan><tspan class="keyColor">IDE</tspan>:<tspan> ............................................................. </tspan><tspan class="valueColor">VS Code</tspan>
+<tspan x="15" y="150">.</tspan>
+<tspan x="15" y="170">. </tspan><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>:<tspan> ............... </tspan><tspan class="valueColor">Java, C++, JavaScript, Kotlin, C, C#</tspan>
+<tspan x="15" y="190">. </tspan><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">Framework</tspan>:<tspan> .................................... </tspan><tspan class="valueColor">React, Next, .net</tspan>
+<tspan x="15" y="210">. </tspan><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>:<tspan> ........................ </tspan><tspan class="valueColor">HTML, CSS, JSON, XML, Tailwind</tspan>
+<tspan x="15" y="230">. </tspan><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>:<tspan> ............................................ </tspan><tspan class="valueColor">English, Hindi</tspan>
+<tspan x="15" y="250">.</tspan>
+<tspan x="15" y="270">. </tspan><tspan class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>:<tspan> ........................................ </tspan><tspan class="valueColor">Game Development</tspan>
+<tspan x="15" y="290">. </tspan><tspan class="keyColor">Hobbies</tspan>.<tspan class="keyColor">FreeTime</tspan>:<tspan> .................................. </tspan><tspan class="valueColor">Thinking Useless Stuff</tspan>
+<tspan x="15" y="310">.</tspan>
+<tspan x="15" y="330" class="keyColor">- Contact  -———————————————————————————————————————————-—-------------------</tspan>
+<tspan x="15" y="350">. </tspan><tspan class="keyColor">Email</tspan>:<tspan> ........................................ </tspan><tspan class="valueColor">abhinavthakurv22@gmail.com</tspan>
+<tspan x="15" y="370">. </tspan><tspan class="keyColor">LinkedIn</tspan>:<tspan> ................................ </tspan><tspan class="valueColor">linkedin.com/in/thakurabhinav22</tspan>
+<tspan x="15" y="390">. </tspan><tspan class="keyColor">Portfolio</tspan>:<tspan> ................................... </tspan><tspan class="valueColor">iamabhinavthakur.vercel.app</tspan>
+<tspan x="15" y="410">. </tspan><tspan class="keyColor">Instagram</tspan>:<tspan> ................................................ </tspan><tspan class="valueColor">abhi9av_thakur</tspan>
+<tspan x="15" y="430">.</tspan>
+<tspan x="15" y="450" class="keyColor">- GitHub Stats  -———————————————————————————————————————————-—--------------</tspan>
+<tspan x="15" y="470">. </tspan><tspan class="keyColor">Repos</tspan>: <tspan>................... </tspan><tspan class="valueColor">71</tspan><tspan> | </tspan><tspan class="keyColor">Stars</tspan>: <tspan>.................. </tspan><tspan class="valueColor">2</tspan>
+<tspan x="15" y="490">. </tspan><tspan class="keyColor">Commits</tspan>: <tspan>................. </tspan><tspan class="valueColor">1287</tspan><tspan> | </tspan><tspan class="keyColor">Followers</tspan>: <tspan>.............. </tspan><tspan class="valueColor">5</tspan>
+<tspan x="15" y="510">. </tspan><tspan class="keyColor">Lines of Code</tspan>: <tspan>.... </tspan><tspan class="valueColor">156,792</tspan><tspan> ( </tspan><tspan class="addColor">123,456++</tspan><tspan>,   </tspan><tspan class="delColor">33,336--</tspan><tspan> )</tspan>
+</text>
+</svg>
