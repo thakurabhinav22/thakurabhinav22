@@ -7,6 +7,43 @@
 .delColor {fill: #f85149;}
 .commentColor {fill: #8b949e;}
 text, tspan {white-space: pre;}
+
+@keyframes uncover {
+    0% { transform: scaleX(1); }
+    100% { transform: scaleX(0); }
+}
+.cover {
+    transform-origin: right;
+    transform: scaleX(1);
+    animation: uncover 0.08s steps(76) forwards;
+}
+.cover-0 { animation-delay: 0.50s; }
+.cover-1 { animation-delay: 0.58s; }
+.cover-2 { animation-delay: 0.66s; }
+.cover-3 { animation-delay: 0.74s; }
+.cover-4 { animation-delay: 0.82s; }
+.cover-5 { animation-delay: 0.90s; }
+.cover-6 { animation-delay: 0.98s; }
+.cover-7 { animation-delay: 1.06s; }
+.cover-8 { animation-delay: 1.14s; }
+.cover-9 { animation-delay: 1.22s; }
+.cover-10 { animation-delay: 1.30s; }
+.cover-11 { animation-delay: 1.38s; }
+.cover-12 { animation-delay: 1.46s; }
+.cover-13 { animation-delay: 1.54s; }
+.cover-14 { animation-delay: 1.62s; }
+.cover-15 { animation-delay: 1.70s; }
+.cover-16 { animation-delay: 1.78s; }
+.cover-17 { animation-delay: 1.86s; }
+.cover-18 { animation-delay: 1.94s; }
+.cover-19 { animation-delay: 2.02s; }
+.cover-20 { animation-delay: 2.10s; }
+.cover-21 { animation-delay: 2.18s; }
+.cover-22 { animation-delay: 2.26s; }
+.cover-23 { animation-delay: 2.34s; }
+.cover-24 { animation-delay: 2.42s; }
+.cover-25 { animation-delay: 2.50s; }
+.cover-26 { animation-delay: 2.58s; }
 </style>
 
 <rect width="760px" height="570px" fill="#161b22" rx="15"/>
@@ -41,4 +78,33 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="530">.</tspan>
 <tspan x="15" y="550">. </tspan><tspan class="commentColor">....................................................... Last updated: 2026-07-26</tspan>
 </text>
+<g id="covers">
+<rect x="15" y="15" width="750" height="22" fill="#161b22" class="cover cover-0" />
+<rect x="15" y="35" width="750" height="22" fill="#161b22" class="cover cover-1" />
+<rect x="15" y="55" width="750" height="22" fill="#161b22" class="cover cover-2" />
+<rect x="15" y="75" width="750" height="22" fill="#161b22" class="cover cover-3" />
+<rect x="15" y="95" width="750" height="22" fill="#161b22" class="cover cover-4" />
+<rect x="15" y="115" width="750" height="22" fill="#161b22" class="cover cover-5" />
+<rect x="15" y="135" width="750" height="22" fill="#161b22" class="cover cover-6" />
+<rect x="15" y="155" width="750" height="22" fill="#161b22" class="cover cover-7" />
+<rect x="15" y="175" width="750" height="22" fill="#161b22" class="cover cover-8" />
+<rect x="15" y="195" width="750" height="22" fill="#161b22" class="cover cover-9" />
+<rect x="15" y="215" width="750" height="22" fill="#161b22" class="cover cover-10" />
+<rect x="15" y="235" width="750" height="22" fill="#161b22" class="cover cover-11" />
+<rect x="15" y="255" width="750" height="22" fill="#161b22" class="cover cover-12" />
+<rect x="15" y="275" width="750" height="22" fill="#161b22" class="cover cover-13" />
+<rect x="15" y="295" width="750" height="22" fill="#161b22" class="cover cover-14" />
+<rect x="15" y="315" width="750" height="22" fill="#161b22" class="cover cover-15" />
+<rect x="15" y="335" width="750" height="22" fill="#161b22" class="cover cover-16" />
+<rect x="15" y="355" width="750" height="22" fill="#161b22" class="cover cover-17" />
+<rect x="15" y="375" width="750" height="22" fill="#161b22" class="cover cover-18" />
+<rect x="15" y="395" width="750" height="22" fill="#161b22" class="cover cover-19" />
+<rect x="15" y="415" width="750" height="22" fill="#161b22" class="cover cover-20" />
+<rect x="15" y="435" width="750" height="22" fill="#161b22" class="cover cover-21" />
+<rect x="15" y="455" width="750" height="22" fill="#161b22" class="cover cover-22" />
+<rect x="15" y="475" width="750" height="22" fill="#161b22" class="cover cover-23" />
+<rect x="15" y="495" width="750" height="22" fill="#161b22" class="cover cover-24" />
+<rect x="15" y="515" width="750" height="22" fill="#161b22" class="cover cover-25" />
+<rect x="15" y="535" width="750" height="22" fill="#161b22" class="cover cover-26" />
+</g>
 </svg>
