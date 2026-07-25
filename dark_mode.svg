@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" viewBox="0 0 1250 550" width="100%" height="auto" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" viewBox="0 0 1250 570" width="100%" height="auto" font-size="16px">
 <style>
 .keyColor {fill: #ffa657;}
 .valueColor {fill: #a5d6ff;}
@@ -9,7 +9,7 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="1245px" height="550px" fill="#161b22" rx="15"/>
+<rect width="1245px" height="570px" fill="#161b22" rx="15"/>
 
 <text x="70" y="30" font-weight="bold" class="ascii">
 <tspan x="70" y="85" fill="#ff595e">                   -`</tspan>
@@ -56,8 +56,11 @@ text, tspan {white-space: pre;}
 <tspan x="500" y="410">. </tspan><tspan class="keyColor">Instagram</tspan>:<tspan> ................................................ </tspan><tspan class="valueColor">abhi9av_thakur</tspan>
 <tspan x="500" y="430">.</tspan>
 <tspan x="500" y="450" class="keyColor">- GitHub Stats  -———————————————————————————————————————————-—--------------</tspan>
-<tspan x="500" y="470">. </tspan><tspan class="keyColor">Repos</tspan>: <tspan>................... </tspan><tspan class="valueColor">71</tspan><tspan> | </tspan><tspan class="keyColor">Stars</tspan>: <tspan>.................. </tspan><tspan class="valueColor">2</tspan>
-<tspan x="500" y="490">. </tspan><tspan class="keyColor">Commits</tspan>: <tspan>................. </tspan><tspan class="valueColor">1287</tspan><tspan> | </tspan><tspan class="keyColor">Followers</tspan>: <tspan>.............. </tspan><tspan class="valueColor">5</tspan>
-<tspan x="500" y="510">. </tspan><tspan class="keyColor">Lines of Code</tspan>: <tspan>.... </tspan><tspan class="valueColor">156,792</tspan><tspan> ( </tspan><tspan class="addColor">123,456++</tspan><tspan>,   </tspan><tspan class="delColor">33,336--</tspan><tspan> )</tspan>
+<tspan x="500" y="470">. </tspan><tspan class="keyColor">Repos</tspan>:<tspan> ........................ </tspan><tspan class="valueColor">71</tspan><tspan> | </tspan><tspan class="keyColor">Stars</tspan>:<tspan> ............................ </tspan><tspan class="valueColor">2</tspan>
+<tspan x="500" y="490">. </tspan><tspan class="keyColor">Commits</tspan>:<tspan> ...................... </tspan><tspan class="valueColor">1287</tspan><tspan> | </tspan><tspan class="keyColor">Followers</tspan>:<tspan> ...................... </tspan><tspan class="valueColor">5</tspan>
+<tspan x="500" y="510">. </tspan><tspan class="keyColor">Lines of Code</tspan>:<tspan> ......................... </tspan><tspan class="valueColor">156,792</tspan><tspan> ( </tspan><tspan class="addColor">123,456++</tspan><tspan>,   </tspan><tspan class="delColor">33,336--</tspan><tspan> )</tspan>
+
+<tspan x="500" y="530">.</tspan>
+<tspan x="500" y="550">. </tspan><tspan class="commentColor">................................................. Last updated: 2026-07-26</tspan>
 </text>
 </svg>
