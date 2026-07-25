@@ -165,26 +165,26 @@ text, tspan {
   <circle cx="60" cy="20" r="6" fill="#27c93f" class="window-btn btn-green"/>
 </g>
 
-<text x="40" y="30" font-weight="bold" font-size="13px" class="ascii">
-<tspan x="40" y="85" fill="#ff595e">                   -`</tspan>
-<tspan x="40" y="101" fill="#ff6d59">                  .o+`</tspan>
-<tspan x="40" y="117" fill="#ff8254">                 `ooo/</tspan>
-<tspan x="40" y="133" fill="#ff964f">                `+oooo:</tspan>
-<tspan x="40" y="149" fill="#ffaa4a">               `+oooooo:</tspan>
-<tspan x="40" y="165" fill="#ffca3a">               -+oooooo+:</tspan>
-<tspan x="40" y="181" fill="#d4d53f">             `/:-:++oooo+:</tspan>
-<tspan x="40" y="197" fill="#a9e044">            `/++++/+++++++:</tspan>
-<tspan x="40" y="213" fill="#8ac926">           `/++++++++++++++:</tspan>
-<tspan x="40" y="229" fill="#5bc44a">          `/+++ooooooooooooo/`</tspan>
-<tspan x="40" y="245" fill="#2ebf6e">         ./ooosssso++osssssso+`</tspan>
-<tspan x="40" y="261" fill="#00b992">        .oossssso-````/ossssss+`</tspan>
-<tspan x="40" y="277" fill="#1982c4">       -osssssso.      :ssssssso.</tspan>
-<tspan x="40" y="293" fill="#2f71c4">      :osssssss/        osssso+++.</tspan>
-<tspan x="40" y="309" fill="#425fc3">     /ossssssss/        +ssssooo/-</tspan>
-<tspan x="40" y="325" fill="#554dc3">   `/ossssso+/:-        -:/+osssso+-</tspan>
-<tspan x="40" y="341" fill="#6a4c93">  `+sso+:-`                 `.-/+oso:</tspan>
-<tspan x="40" y="357" fill="#834685"> `++:.                           `-/+/</tspan>
-<tspan x="40" y="373" fill="#9c3f77"> .`                                 `/</tspan>
+<text x="15" y="30" font-weight="bold" font-size="11px" class="ascii">
+<tspan x="15" y="85" fill="#ff595e">                   -`</tspan>
+<tspan x="15" y="99" fill="#ff6d59">                  .o+`</tspan>
+<tspan x="15" y="113" fill="#ff8254">                 `ooo/</tspan>
+<tspan x="15" y="127" fill="#ff964f">                `+oooo:</tspan>
+<tspan x="15" y="141" fill="#ffaa4a">               `+oooooo:</tspan>
+<tspan x="15" y="155" fill="#ffca3a">               -+oooooo+:</tspan>
+<tspan x="15" y="169" fill="#d4d53f">             `/:-:++oooo+:</tspan>
+<tspan x="15" y="183" fill="#a9e044">            `/++++/+++++++:</tspan>
+<tspan x="15" y="197" fill="#8ac926">           `/++++++++++++++:</tspan>
+<tspan x="15" y="211" fill="#5bc44a">          `/+++ooooooooooooo/`</tspan>
+<tspan x="15" y="225" fill="#2ebf6e">         ./ooosssso++osssssso+`</tspan>
+<tspan x="15" y="239" fill="#00b992">        .oossssso-````/ossssss+`</tspan>
+<tspan x="15" y="253" fill="#1982c4">       -osssssso.      :ssssssso.</tspan>
+<tspan x="15" y="267" fill="#2f71c4">      :osssssss/        osssso+++.</tspan>
+<tspan x="15" y="281" fill="#425fc3">     /ossssssss/        +ssssooo/-</tspan>
+<tspan x="15" y="295" fill="#554dc3">   `/ossssso+/:-        -:/+osssso+-</tspan>
+<tspan x="15" y="309" fill="#6a4c93">  `+sso+:-`                 `.-/+oso:</tspan>
+<tspan x="15" y="323" fill="#834685"> `++:.                           `-/+/</tspan>
+<tspan x="15" y="337" fill="#9c3f77"> .`                                 `/</tspan>
 </text>
 <text x="340" y="30" fill="#24292f" font-size="18px">
 <tspan x="340" y="30">@thakurabhinav22 -————————————————————————————————————————————————————</tspan>
