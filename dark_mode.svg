@@ -11,33 +11,26 @@ text, tspan {white-space: pre;}
 
 <rect width="1245px" height="550px" fill="#161b22" rx="15"/>
 
-<text x="70" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="70" y="30">              .88888888:.            </tspan>
-<tspan x="70" y="50">             88888888.88888.         </tspan>
-<tspan x="70" y="70">           .8888888888888888.        </tspan>
-<tspan x="70" y="90">           888888888888888888        </tspan>
-<tspan x="70" y="110">           88' _`88'_  `88888        </tspan>
-<tspan x="70" y="130">           88 88 88 88  88888        </tspan>
-<tspan x="70" y="150">           88_88_::_88_ 88888        </tspan>
-<tspan x="70" y="170">           88:::,::,:::::8888        </tspan>
-<tspan x="70" y="190">           88`:::::::::'`8888        </tspan>
-<tspan x="70" y="210">          .88  `::::'    8:88.       </tspan>
-<tspan x="70" y="230">         8888            `8:888.     </tspan>
-<tspan x="70" y="250">       .8888'             `888888.   </tspan>
-<tspan x="70" y="270">      .8888:..  .::.  ...:'8888888:. </tspan>
-<tspan x="70" y="290">     .8888.'     :'     `'::`88:88888</tspan>
-<tspan x="70" y="310">    .8888        '         `.888:8888.</tspan>
-<tspan x="70" y="330">   888:8         .           888:88888</tspan>
-<tspan x="70" y="350"> .888:88        .:           888:88888:</tspan>
-<tspan x="70" y="370"> 8888888.       ::           88:888888</tspan>
-<tspan x="70" y="390"> `.::.888.      ::          .88888888</tspan>
-<tspan x="70" y="410"> .::::::.888.    ::         :::`8888'.:.</tspan>
-<tspan x="70" y="430">::::::::::.888   '         .::::::::::::</tspan>
-<tspan x="70" y="450">::::::::::::.8    '      .:8::::::::::::.</tspan>
-<tspan x="70" y="470">.::::::::::::::.        .:888:::::::::::::</tspan>
-<tspan x="70" y="490">:::::::::::::::88:.__..:88888:::::::::::'</tspan>
-<tspan x="70" y="510"> `'.:::::::::::88888888888.88:::::::::'</tspan>
-<tspan x="70" y="530">       `':::_:' -- '' -'-' `':_::::'`</tspan>
+<text x="70" y="30" fill="#1793d1" font-weight="bold" class="ascii">
+<tspan x="70" y="85">                   -`</tspan>
+<tspan x="70" y="105">                  .o+`</tspan>
+<tspan x="70" y="125">                 `ooo/</tspan>
+<tspan x="70" y="145">                `+oooo:</tspan>
+<tspan x="70" y="165">               `+oooooo:</tspan>
+<tspan x="70" y="185">               -+oooooo+:</tspan>
+<tspan x="70" y="205">             `/:-:++oooo+:</tspan>
+<tspan x="70" y="225">            `/++++/+++++++:</tspan>
+<tspan x="70" y="245">           `/++++++++++++++:</tspan>
+<tspan x="70" y="265">          `/+++ooooooooooooo/`</tspan>
+<tspan x="70" y="285">         ./ooosssso++osssssso+`</tspan>
+<tspan x="70" y="305">        .oossssso-````/ossssss+`</tspan>
+<tspan x="70" y="325">       -osssssso.      :ssssssso.</tspan>
+<tspan x="70" y="345">      :osssssss/        osssso+++.</tspan>
+<tspan x="70" y="365">     /ossssssss/        +ssssooo/-</tspan>
+<tspan x="70" y="385">   `/ossssso+/:-        -:/+osssso+-</tspan>
+<tspan x="70" y="405">  `+sso+:-`                 `.-/+oso:</tspan>
+<tspan x="70" y="425"> `++:.                           `-/+/</tspan>
+<tspan x="70" y="445"> .`                                 `/</tspan>
 </text>
 
 <text x="500" y="30" fill="#c9d1d9">
@@ -56,13 +49,13 @@ text, tspan {white-space: pre;}
 <tspan x="500" y="270">. </tspan><tspan class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>:<tspan> ........................................ </tspan><tspan class="valueColor">Game Development</tspan>
 <tspan x="500" y="290">. </tspan><tspan class="keyColor">Hobbies</tspan>.<tspan class="keyColor">FreeTime</tspan>:<tspan> .................................. </tspan><tspan class="valueColor">Thinking Useless Stuff</tspan>
 <tspan x="500" y="310">.</tspan>
-<tspan x="500" y="330" >- Contact  -———————————————————————————————————————————-—-------------------</tspan>
+<tspan x="500" y="330" class="keyColor">- Contact  -———————————————————————————————————————————-—-------------------</tspan>
 <tspan x="500" y="350">. </tspan><tspan class="keyColor">Email</tspan>:<tspan> ........................................ </tspan><tspan class="valueColor">abhinavthakurv22@gmail.com</tspan>
 <tspan x="500" y="370">. </tspan><tspan class="keyColor">LinkedIn</tspan>:<tspan> ................................ </tspan><tspan class="valueColor">linkedin.com/in/thakurabhinav22</tspan>
 <tspan x="500" y="390">. </tspan><tspan class="keyColor">Portfolio</tspan>:<tspan> ................................... </tspan><tspan class="valueColor">iamabhinavthakur.vercel.app</tspan>
 <tspan x="500" y="410">. </tspan><tspan class="keyColor">Instagram</tspan>:<tspan> ................................................ </tspan><tspan class="valueColor">abhi9av_thakur</tspan>
 <tspan x="500" y="430">.</tspan>
-<tspan x="500" y="450" >- GitHub Stats  -———————————————————————————————————————————-—--------------</tspan>
+<tspan x="500" y="450" class="keyColor">- GitHub Stats  -———————————————————————————————————————————-—--------------</tspan>
 <tspan x="500" y="470">. </tspan><tspan class="keyColor">Repos</tspan>: <tspan>................... </tspan><tspan class="valueColor">71</tspan><tspan> | </tspan><tspan class="keyColor">Stars</tspan>: <tspan>.................. </tspan><tspan class="valueColor">2</tspan>
 <tspan x="500" y="490">. </tspan><tspan class="keyColor">Commits</tspan>: <tspan>................. </tspan><tspan class="valueColor">1287</tspan><tspan> | </tspan><tspan class="keyColor">Followers</tspan>: <tspan>.............. </tspan><tspan class="valueColor">5</tspan>
 <tspan x="500" y="510">. </tspan><tspan class="keyColor">Lines of Code</tspan>: <tspan>.... </tspan><tspan class="valueColor">156,792</tspan><tspan> ( </tspan><tspan class="addColor">123,456++</tspan><tspan>,   </tspan><tspan class="delColor">33,336--</tspan><tspan> )</tspan>

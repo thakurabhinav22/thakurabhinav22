@@ -11,33 +11,26 @@ text, tspan {white-space: pre;}
 
 <rect width="1245px" height="550px" fill="#f6f8fa" rx="15"/>
 
-<text x="70" y="30" fill="#24292f" class="ascii">
-<tspan x="70" y="30">              .88888888:.            </tspan>
-<tspan x="70" y="50">             88888888.88888.         </tspan>
-<tspan x="70" y="70">           .8888888888888888.        </tspan>
-<tspan x="70" y="90">           888888888888888888        </tspan>
-<tspan x="70" y="110">           88' _`88'_  `88888        </tspan>
-<tspan x="70" y="130">           88 88 88 88  88888        </tspan>
-<tspan x="70" y="150">           88_88_::_88_ 88888        </tspan>
-<tspan x="70" y="170">           88:::,::,:::::8888        </tspan>
-<tspan x="70" y="190">           88`:::::::::'`8888        </tspan>
-<tspan x="70" y="210">          .88  `::::'    8:88.       </tspan>
-<tspan x="70" y="230">         8888            `8:888.     </tspan>
-<tspan x="70" y="250">       .8888'             `888888.   </tspan>
-<tspan x="70" y="270">      .8888:..  .::.  ...:'8888888:. </tspan>
-<tspan x="70" y="290">     .8888.'     :'     `'::`88:88888</tspan>
-<tspan x="70" y="310">    .8888        '         `.888:8888.</tspan>
-<tspan x="70" y="330">   888:8         .           888:88888</tspan>
-<tspan x="70" y="350"> .888:88        .:           888:88888:</tspan>
-<tspan x="70" y="370"> 8888888.       ::           88:888888</tspan>
-<tspan x="70" y="390"> `.::.888.      ::          .88888888</tspan>
-<tspan x="70" y="410"> .::::::.888.    ::         :::`8888'.:.</tspan>
-<tspan x="70" y="430">::::::::::.888   '         .::::::::::::</tspan>
-<tspan x="70" y="450">::::::::::::.8    '      .:8::::::::::::.</tspan>
-<tspan x="70" y="470">.::::::::::::::.        .:888:::::::::::::</tspan>
-<tspan x="70" y="490">:::::::::::::::88:.__..:88888:::::::::::'</tspan>
-<tspan x="70" y="510"> `'.:::::::::::88888888888.88:::::::::'</tspan>
-<tspan x="70" y="530">       `':::_:' -- '' -'-' `':_::::'`</tspan>
+<text x="70" y="30" fill="#1793d1" font-weight="bold" class="ascii">
+<tspan x="70" y="85">                   -`</tspan>
+<tspan x="70" y="105">                  .o+`</tspan>
+<tspan x="70" y="125">                 `ooo/</tspan>
+<tspan x="70" y="145">                `+oooo:</tspan>
+<tspan x="70" y="165">               `+oooooo:</tspan>
+<tspan x="70" y="185">               -+oooooo+:</tspan>
+<tspan x="70" y="205">             `/:-:++oooo+:</tspan>
+<tspan x="70" y="225">            `/++++/+++++++:</tspan>
+<tspan x="70" y="245">           `/++++++++++++++:</tspan>
+<tspan x="70" y="265">          `/+++ooooooooooooo/`</tspan>
+<tspan x="70" y="285">         ./ooosssso++osssssso+`</tspan>
+<tspan x="70" y="305">        .oossssso-````/ossssss+`</tspan>
+<tspan x="70" y="325">       -osssssso.      :ssssssso.</tspan>
+<tspan x="70" y="345">      :osssssss/        osssso+++.</tspan>
+<tspan x="70" y="365">     /ossssssss/        +ssssooo/-</tspan>
+<tspan x="70" y="385">   `/ossssso+/:-        -:/+osssso+-</tspan>
+<tspan x="70" y="405">  `+sso+:-`                 `.-/+oso:</tspan>
+<tspan x="70" y="425"> `++:.                           `-/+/</tspan>
+<tspan x="70" y="445"> .`                                 `/</tspan>
 </text>
 
 <text x="500" y="30" fill="#24292f">
