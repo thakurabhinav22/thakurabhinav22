@@ -8,42 +8,52 @@
 .commentColor {fill: #8b949e;}
 text, tspan {white-space: pre;}
 
+@keyframes splashFade {
+    0%   { opacity: 1; transform: translateX(212px); }
+    80%  { opacity: 1; transform: translateX(212px); }
+    100% { opacity: 0; transform: translateX(212px); }
+}
 @keyframes uncover {
     0% { transform: scaleX(1); }
     100% { transform: scaleX(0); }
 }
+.splash-logo {
+    opacity: 1;
+    transform: translateX(212px);
+    animation: splashFade 1.0s forwards;
+}
 .cover {
     transform-origin: right;
     transform: scaleX(1);
-    animation: uncover 0.08s steps(76) forwards;
+    animation: uncover 0.05s steps(100) forwards;
 }
-.cover-0 { animation-delay: 0.50s; }
-.cover-1 { animation-delay: 0.58s; }
-.cover-2 { animation-delay: 0.66s; }
-.cover-3 { animation-delay: 0.74s; }
-.cover-4 { animation-delay: 0.82s; }
-.cover-5 { animation-delay: 0.90s; }
-.cover-6 { animation-delay: 0.98s; }
-.cover-7 { animation-delay: 1.06s; }
-.cover-8 { animation-delay: 1.14s; }
-.cover-9 { animation-delay: 1.22s; }
-.cover-10 { animation-delay: 1.30s; }
-.cover-11 { animation-delay: 1.38s; }
-.cover-12 { animation-delay: 1.46s; }
-.cover-13 { animation-delay: 1.54s; }
-.cover-14 { animation-delay: 1.62s; }
-.cover-15 { animation-delay: 1.70s; }
-.cover-16 { animation-delay: 1.78s; }
-.cover-17 { animation-delay: 1.86s; }
-.cover-18 { animation-delay: 1.94s; }
-.cover-19 { animation-delay: 2.02s; }
-.cover-20 { animation-delay: 2.10s; }
-.cover-21 { animation-delay: 2.18s; }
-.cover-22 { animation-delay: 2.26s; }
-.cover-23 { animation-delay: 2.34s; }
-.cover-24 { animation-delay: 2.42s; }
-.cover-25 { animation-delay: 2.50s; }
-.cover-26 { animation-delay: 2.58s; }
+.cover-0 { animation-delay: 1.00s; }
+.cover-1 { animation-delay: 1.05s; }
+.cover-2 { animation-delay: 1.10s; }
+.cover-3 { animation-delay: 1.15s; }
+.cover-4 { animation-delay: 1.20s; }
+.cover-5 { animation-delay: 1.25s; }
+.cover-6 { animation-delay: 1.30s; }
+.cover-7 { animation-delay: 1.35s; }
+.cover-8 { animation-delay: 1.40s; }
+.cover-9 { animation-delay: 1.45s; }
+.cover-10 { animation-delay: 1.50s; }
+.cover-11 { animation-delay: 1.55s; }
+.cover-12 { animation-delay: 1.60s; }
+.cover-13 { animation-delay: 1.65s; }
+.cover-14 { animation-delay: 1.70s; }
+.cover-15 { animation-delay: 1.75s; }
+.cover-16 { animation-delay: 1.80s; }
+.cover-17 { animation-delay: 1.85s; }
+.cover-18 { animation-delay: 1.90s; }
+.cover-19 { animation-delay: 1.95s; }
+.cover-20 { animation-delay: 2.00s; }
+.cover-21 { animation-delay: 2.05s; }
+.cover-22 { animation-delay: 2.10s; }
+.cover-23 { animation-delay: 2.15s; }
+.cover-24 { animation-delay: 2.20s; }
+.cover-25 { animation-delay: 2.25s; }
+.cover-26 { animation-delay: 2.30s; }
 </style>
 
 <rect width="760px" height="570px" fill="#f6f8fa" rx="15"/>
@@ -78,33 +88,55 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="530">.</tspan>
 <tspan x="15" y="550">. </tspan><tspan class="commentColor">....................................................... Last updated: 2026-07-26</tspan>
 </text>
+
 <g id="covers">
-<rect x="15" y="15" width="750" height="22" fill="#f6f8fa" class="cover cover-0" />
-<rect x="15" y="35" width="750" height="22" fill="#f6f8fa" class="cover cover-1" />
-<rect x="15" y="55" width="750" height="22" fill="#f6f8fa" class="cover cover-2" />
-<rect x="15" y="75" width="750" height="22" fill="#f6f8fa" class="cover cover-3" />
-<rect x="15" y="95" width="750" height="22" fill="#f6f8fa" class="cover cover-4" />
-<rect x="15" y="115" width="750" height="22" fill="#f6f8fa" class="cover cover-5" />
-<rect x="15" y="135" width="750" height="22" fill="#f6f8fa" class="cover cover-6" />
-<rect x="15" y="155" width="750" height="22" fill="#f6f8fa" class="cover cover-7" />
-<rect x="15" y="175" width="750" height="22" fill="#f6f8fa" class="cover cover-8" />
-<rect x="15" y="195" width="750" height="22" fill="#f6f8fa" class="cover cover-9" />
-<rect x="15" y="215" width="750" height="22" fill="#f6f8fa" class="cover cover-10" />
-<rect x="15" y="235" width="750" height="22" fill="#f6f8fa" class="cover cover-11" />
-<rect x="15" y="255" width="750" height="22" fill="#f6f8fa" class="cover cover-12" />
-<rect x="15" y="275" width="750" height="22" fill="#f6f8fa" class="cover cover-13" />
-<rect x="15" y="295" width="750" height="22" fill="#f6f8fa" class="cover cover-14" />
-<rect x="15" y="315" width="750" height="22" fill="#f6f8fa" class="cover cover-15" />
-<rect x="15" y="335" width="750" height="22" fill="#f6f8fa" class="cover cover-16" />
-<rect x="15" y="355" width="750" height="22" fill="#f6f8fa" class="cover cover-17" />
-<rect x="15" y="375" width="750" height="22" fill="#f6f8fa" class="cover cover-18" />
-<rect x="15" y="395" width="750" height="22" fill="#f6f8fa" class="cover cover-19" />
-<rect x="15" y="415" width="750" height="22" fill="#f6f8fa" class="cover cover-20" />
-<rect x="15" y="435" width="750" height="22" fill="#f6f8fa" class="cover cover-21" />
-<rect x="15" y="455" width="750" height="22" fill="#f6f8fa" class="cover cover-22" />
-<rect x="15" y="475" width="750" height="22" fill="#f6f8fa" class="cover cover-23" />
-<rect x="15" y="495" width="750" height="22" fill="#f6f8fa" class="cover cover-24" />
-<rect x="15" y="515" width="750" height="22" fill="#f6f8fa" class="cover cover-25" />
-<rect x="15" y="535" width="750" height="22" fill="#f6f8fa" class="cover cover-26" />
+<rect x="0" y="15" width="765" height="22" fill="#f6f8fa" class="cover cover-0" />
+<rect x="0" y="35" width="765" height="22" fill="#f6f8fa" class="cover cover-1" />
+<rect x="0" y="55" width="765" height="22" fill="#f6f8fa" class="cover cover-2" />
+<rect x="0" y="75" width="765" height="22" fill="#f6f8fa" class="cover cover-3" />
+<rect x="0" y="95" width="765" height="22" fill="#f6f8fa" class="cover cover-4" />
+<rect x="0" y="115" width="765" height="22" fill="#f6f8fa" class="cover cover-5" />
+<rect x="0" y="135" width="765" height="22" fill="#f6f8fa" class="cover cover-6" />
+<rect x="0" y="155" width="765" height="22" fill="#f6f8fa" class="cover cover-7" />
+<rect x="0" y="175" width="765" height="22" fill="#f6f8fa" class="cover cover-8" />
+<rect x="0" y="195" width="765" height="22" fill="#f6f8fa" class="cover cover-9" />
+<rect x="0" y="215" width="765" height="22" fill="#f6f8fa" class="cover cover-10" />
+<rect x="0" y="235" width="765" height="22" fill="#f6f8fa" class="cover cover-11" />
+<rect x="0" y="255" width="765" height="22" fill="#f6f8fa" class="cover cover-12" />
+<rect x="0" y="275" width="765" height="22" fill="#f6f8fa" class="cover cover-13" />
+<rect x="0" y="295" width="765" height="22" fill="#f6f8fa" class="cover cover-14" />
+<rect x="0" y="315" width="765" height="22" fill="#f6f8fa" class="cover cover-15" />
+<rect x="0" y="335" width="765" height="22" fill="#f6f8fa" class="cover cover-16" />
+<rect x="0" y="355" width="765" height="22" fill="#f6f8fa" class="cover cover-17" />
+<rect x="0" y="375" width="765" height="22" fill="#f6f8fa" class="cover cover-18" />
+<rect x="0" y="395" width="765" height="22" fill="#f6f8fa" class="cover cover-19" />
+<rect x="0" y="415" width="765" height="22" fill="#f6f8fa" class="cover cover-20" />
+<rect x="0" y="435" width="765" height="22" fill="#f6f8fa" class="cover cover-21" />
+<rect x="0" y="455" width="765" height="22" fill="#f6f8fa" class="cover cover-22" />
+<rect x="0" y="475" width="765" height="22" fill="#f6f8fa" class="cover cover-23" />
+<rect x="0" y="495" width="765" height="22" fill="#f6f8fa" class="cover cover-24" />
+<rect x="0" y="515" width="765" height="22" fill="#f6f8fa" class="cover cover-25" />
+<rect x="0" y="535" width="765" height="22" fill="#f6f8fa" class="cover cover-26" />
 </g>
+<text x="70" y="30" font-weight="bold" class="splash-logo">
+<tspan x="70" y="85" fill="#ff595e">                   -`</tspan>
+<tspan x="70" y="105" fill="#ff6d59">                  .o+`</tspan>
+<tspan x="70" y="125" fill="#ff8254">                 `ooo/</tspan>
+<tspan x="70" y="145" fill="#ff964f">                `+oooo:</tspan>
+<tspan x="70" y="165" fill="#ffaa4a">               `+oooooo:</tspan>
+<tspan x="70" y="185" fill="#ffca3a">               -+oooooo+:</tspan>
+<tspan x="70" y="205" fill="#d4d53f">             `/:-:++oooo+:</tspan>
+<tspan x="70" y="225" fill="#a9e044">            `/++++/+++++++:</tspan>
+<tspan x="70" y="245" fill="#8ac926">           `/++++++++++++++:</tspan>
+<tspan x="70" y="265" fill="#5bc44a">          `/+++ooooooooooooo/`</tspan>
+<tspan x="70" y="285" fill="#2ebf6e">         ./ooosssso++osssssso+`</tspan>
+<tspan x="70" y="305" fill="#00b992">        .oossssso-````/ossssss+`</tspan>
+<tspan x="70" y="325" fill="#1982c4">       -osssssso.      :ssssssso.</tspan>
+<tspan x="70" y="345" fill="#2f71c4">      :osssssss/        osssso+++.</tspan>
+<tspan x="70" y="365" fill="#425fc3">     /ossssssss/        +ssssooo/-</tspan>
+<tspan x="70" y="385" fill="#554dc3">   `/ossssso+/:-        -:/+osssso+-</tspan>
+<tspan x="70" y="405" fill="#6a4c93">  `+sso+:-`                 `.-/+oso:</tspan>
+<tspan x="70" y="425" fill="#834685"> `++:.                           `-/+/</tspan>
+<tspan x="70" y="445" fill="#9c3f77"> .`                                 `/</tspan>
+</text>
 </svg>
