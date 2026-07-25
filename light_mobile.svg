@@ -136,7 +136,8 @@ text, tspan {
 .typing-cursor {
     animation: moveCursor 0.05s linear both;
 }
-\n</style>
+
+</style>
 <rect width="1000px" height="570px" fill="#f6f8fa" rx="15"/>
 
 <g id="window-controls">
@@ -203,7 +204,36 @@ text, tspan {
 <rect x="5" y="490" width="995" height="22" fill="#f6f8fa" class="cover cover-24" />
 <rect x="5" y="510" width="995" height="22" fill="#f6f8fa" class="cover cover-25" />
 <rect x="5" y="530" width="995" height="22" fill="#f6f8fa" class="cover cover-26" />
-</g>\n<g id="typing-cursors">\n<rect x="5" y="13" width="10" height="18" fill="#24292f" class="typing-cursor cover-0" />\n<rect x="5" y="33" width="10" height="18" fill="#24292f" class="typing-cursor cover-1" />\n<rect x="5" y="53" width="10" height="18" fill="#24292f" class="typing-cursor cover-2" />\n<rect x="5" y="73" width="10" height="18" fill="#24292f" class="typing-cursor cover-3" />\n<rect x="5" y="93" width="10" height="18" fill="#24292f" class="typing-cursor cover-4" />\n<rect x="5" y="113" width="10" height="18" fill="#24292f" class="typing-cursor cover-5" />\n<rect x="5" y="133" width="10" height="18" fill="#24292f" class="typing-cursor cover-6" />\n<rect x="5" y="153" width="10" height="18" fill="#24292f" class="typing-cursor cover-7" />\n<rect x="5" y="173" width="10" height="18" fill="#24292f" class="typing-cursor cover-8" />\n<rect x="5" y="193" width="10" height="18" fill="#24292f" class="typing-cursor cover-9" />\n<rect x="5" y="213" width="10" height="18" fill="#24292f" class="typing-cursor cover-10" />\n<rect x="5" y="233" width="10" height="18" fill="#24292f" class="typing-cursor cover-11" />\n<rect x="5" y="253" width="10" height="18" fill="#24292f" class="typing-cursor cover-12" />\n<rect x="5" y="273" width="10" height="18" fill="#24292f" class="typing-cursor cover-13" />\n<rect x="5" y="293" width="10" height="18" fill="#24292f" class="typing-cursor cover-14" />\n<rect x="5" y="313" width="10" height="18" fill="#24292f" class="typing-cursor cover-15" />\n<rect x="5" y="333" width="10" height="18" fill="#24292f" class="typing-cursor cover-16" />\n<rect x="5" y="353" width="10" height="18" fill="#24292f" class="typing-cursor cover-17" />\n<rect x="5" y="373" width="10" height="18" fill="#24292f" class="typing-cursor cover-18" />\n<rect x="5" y="393" width="10" height="18" fill="#24292f" class="typing-cursor cover-19" />\n<rect x="5" y="413" width="10" height="18" fill="#24292f" class="typing-cursor cover-20" />\n<rect x="5" y="433" width="10" height="18" fill="#24292f" class="typing-cursor cover-21" />\n<rect x="5" y="453" width="10" height="18" fill="#24292f" class="typing-cursor cover-22" />\n<rect x="5" y="473" width="10" height="18" fill="#24292f" class="typing-cursor cover-23" />\n<rect x="5" y="493" width="10" height="18" fill="#24292f" class="typing-cursor cover-24" />\n<rect x="5" y="513" width="10" height="18" fill="#24292f" class="typing-cursor cover-25" />\n<rect x="5" y="533" width="10" height="18" fill="#24292f" class="typing-cursor cover-26" />\n</g>
+</g>
+<g id="typing-cursors">
+<rect x="5" y="13" width="10" height="18" fill="#24292f" class="typing-cursor cover-0" />
+<rect x="5" y="33" width="10" height="18" fill="#24292f" class="typing-cursor cover-1" />
+<rect x="5" y="53" width="10" height="18" fill="#24292f" class="typing-cursor cover-2" />
+<rect x="5" y="73" width="10" height="18" fill="#24292f" class="typing-cursor cover-3" />
+<rect x="5" y="93" width="10" height="18" fill="#24292f" class="typing-cursor cover-4" />
+<rect x="5" y="113" width="10" height="18" fill="#24292f" class="typing-cursor cover-5" />
+<rect x="5" y="133" width="10" height="18" fill="#24292f" class="typing-cursor cover-6" />
+<rect x="5" y="153" width="10" height="18" fill="#24292f" class="typing-cursor cover-7" />
+<rect x="5" y="173" width="10" height="18" fill="#24292f" class="typing-cursor cover-8" />
+<rect x="5" y="193" width="10" height="18" fill="#24292f" class="typing-cursor cover-9" />
+<rect x="5" y="213" width="10" height="18" fill="#24292f" class="typing-cursor cover-10" />
+<rect x="5" y="233" width="10" height="18" fill="#24292f" class="typing-cursor cover-11" />
+<rect x="5" y="253" width="10" height="18" fill="#24292f" class="typing-cursor cover-12" />
+<rect x="5" y="273" width="10" height="18" fill="#24292f" class="typing-cursor cover-13" />
+<rect x="5" y="293" width="10" height="18" fill="#24292f" class="typing-cursor cover-14" />
+<rect x="5" y="313" width="10" height="18" fill="#24292f" class="typing-cursor cover-15" />
+<rect x="5" y="333" width="10" height="18" fill="#24292f" class="typing-cursor cover-16" />
+<rect x="5" y="353" width="10" height="18" fill="#24292f" class="typing-cursor cover-17" />
+<rect x="5" y="373" width="10" height="18" fill="#24292f" class="typing-cursor cover-18" />
+<rect x="5" y="393" width="10" height="18" fill="#24292f" class="typing-cursor cover-19" />
+<rect x="5" y="413" width="10" height="18" fill="#24292f" class="typing-cursor cover-20" />
+<rect x="5" y="433" width="10" height="18" fill="#24292f" class="typing-cursor cover-21" />
+<rect x="5" y="453" width="10" height="18" fill="#24292f" class="typing-cursor cover-22" />
+<rect x="5" y="473" width="10" height="18" fill="#24292f" class="typing-cursor cover-23" />
+<rect x="5" y="493" width="10" height="18" fill="#24292f" class="typing-cursor cover-24" />
+<rect x="5" y="513" width="10" height="18" fill="#24292f" class="typing-cursor cover-25" />
+<rect x="5" y="533" width="10" height="18" fill="#24292f" class="typing-cursor cover-26" />
+</g>
 </g>
 <g class="intro-splash">
     <clipPath id="pfp-clip">
@@ -224,4 +254,5 @@ text, tspan {
   </pattern>
 </defs>
 <rect width="100%" height="100%" fill="url(#scanlines)" class="scanline-overlay" pointer-events="none"/>
-\n</svg>
+
+</svg>
