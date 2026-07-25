@@ -41,7 +41,6 @@ text, tspan {
     transform: scaleX(1);
     animation: uncover 0.05s steps(100) both;
 }
-}
 .cover-0 { animation-delay: 3.00s; }
 .cover-1 { animation-delay: 3.05s; }
 .cover-2 { animation-delay: 3.10s; }
