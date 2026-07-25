@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" viewBox="0 0 1400 570" width="100%" height="auto" font-size="16px">
+<svg class="flicker" xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" viewBox="0 0 1400 570" width="100%" height="auto" font-size="16px">
 <style>
 .keyColor {fill: #ffa657;}
 .valueColor {fill: #a5d6ff;}
@@ -83,15 +83,24 @@ text, tspan {
 .btn-yellow { animation-delay: 1.6s; }
 .btn-green { animation-delay: 1.7s; }
 
-@keyframes crtFlicker {
-    0% { opacity: 0.95; }
-    5% { opacity: 0.85; }
-    10% { opacity: 0.95; }
-    15% { opacity: 1.0; }
-    100% { opacity: 1.0; }
+
+
+
+@keyframes randomFlicker {
+    0% { opacity: 1; }
+    80% { opacity: 1; }
+    81% { opacity: 0.7; }
+    82% { opacity: 1; }
+    83% { opacity: 0.5; }
+    84% { opacity: 1; }
+    95% { opacity: 1; }
+    96% { opacity: 0.8; }
+    97% { opacity: 1; }
+    100% { opacity: 1; }
 }
 .flicker {
-    animation: crtFlicker 3s infinite;
+    animation: randomFlicker 7s infinite;
+    animation-delay: 5s;
 }
 
 </style>
@@ -190,12 +199,7 @@ text, tspan {
     <text x="700.0" y="380" fill="#c9d1d9" font-weight="bold" font-size="24px" font-family="sans-serif" text-anchor="middle">ABHINAV THAKUR</text>
 </g>
 
-<defs>
-  <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
-    <rect width="4" height="2" fill="#000" fill-opacity="0.15"/>
-    <rect y="2" width="4" height="2" fill="#000" fill-opacity="0.0"/>
-  </pattern>
-</defs>
-<rect width="100%" height="100%" fill="url(#scanlines)" class="flicker" pointer-events="none"/>
+
+
 
 </svg>

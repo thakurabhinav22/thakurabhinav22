@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" viewBox="0 0 1000 570" width="100%" height="auto" font-size="16px">
+<svg class="flicker" xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" viewBox="0 0 1000 570" width="100%" height="auto" font-size="16px">
 <style>
 .keyColor {fill: #ffa657;}
 .valueColor {fill: #a5d6ff;}
@@ -83,15 +83,24 @@ text, tspan {
 .btn-yellow { animation-delay: 1.6s; }
 .btn-green { animation-delay: 1.7s; }
 
-@keyframes crtFlicker {
-    0% { opacity: 0.95; }
-    5% { opacity: 0.85; }
-    10% { opacity: 0.95; }
-    15% { opacity: 1.0; }
-    100% { opacity: 1.0; }
+
+
+
+@keyframes randomFlicker {
+    0% { opacity: 1; }
+    80% { opacity: 1; }
+    81% { opacity: 0.7; }
+    82% { opacity: 1; }
+    83% { opacity: 0.5; }
+    84% { opacity: 1; }
+    95% { opacity: 1; }
+    96% { opacity: 0.8; }
+    97% { opacity: 1; }
+    100% { opacity: 1; }
 }
 .flicker {
-    animation: crtFlicker 3s infinite;
+    animation: randomFlicker 7s infinite;
+    animation-delay: 5s;
 }
 
 </style>
@@ -103,6 +112,7 @@ text, tspan {
   <circle cx="60" cy="20" r="6" fill="#27c93f" class="window-btn btn-green"/>
 </g>
 
+<g transform="translate(0, 20)">
 <text x="15" y="30" fill="#c9d1d9">
 <tspan x="15" y="30">thakurabhinav22 -———————————————————————————————————————————-—--------------</tspan>
 <tspan x="15" y="50">. </tspan><tspan class="keyColor">OS</tspan>:<tspan> ........................................................... </tspan><tspan class="valueColor">Arch Linux</tspan>
@@ -161,6 +171,7 @@ text, tspan {
 <rect x="5" y="510" width="995" height="22" fill="#161b22" class="cover cover-25" />
 <rect x="5" y="530" width="995" height="22" fill="#161b22" class="cover cover-26" />
 </g>
+</g>
 <g class="intro-splash">
     <clipPath id="pfp-clip">
         <circle cx="500.0" cy="265" r="75" />
@@ -169,12 +180,7 @@ text, tspan {
     <text x="500.0" y="380" fill="#c9d1d9" font-weight="bold" font-size="24px" font-family="sans-serif" text-anchor="middle">ABHINAV THAKUR</text>
 </g>
 
-<defs>
-  <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
-    <rect width="4" height="2" fill="#000" fill-opacity="0.15"/>
-    <rect y="2" width="4" height="2" fill="#000" fill-opacity="0.0"/>
-  </pattern>
-</defs>
-<rect width="100%" height="100%" fill="url(#scanlines)" class="flicker" pointer-events="none"/>
+
+
 
 </svg>
