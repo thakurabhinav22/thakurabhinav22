@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="450px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1075px" height="450px" font-size="16px">
 <style>
 .keyColor {fill: #ffa657;}
 .valueColor {fill: #a5d6ff;}
@@ -9,7 +9,7 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="970px" height="450px" fill="#161b22" rx="15"/>
+<rect width="1070px" height="450px" fill="#161b22" rx="15"/>
 
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">                 .............                  </tspan>
@@ -35,26 +35,26 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="430">               ......     .... .                </tspan>
 </text>
 
-<text x="400" y="30" fill="#c9d1d9">
-<tspan x="400" y="30">thakurabhinav22</tspan>
-<tspan x="400" y="50">——————</tspan>
-<tspan x="400" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Arch Linux</tspan>
-<tspan x="400" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">4 Year+</tspan>
-<tspan x="400" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Asus Vivobook 15</tspan>
-<tspan x="400" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">6.18.7-arch1-2(64-bit)</tspan>
-<tspan x="400" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VS Code</tspan>
-<tspan x="400" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, C++, JavaScript, Kotlin, C, C# </tspan>
-  <tspan x="400" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Framework</tspan>: <tspan class="valueColor">React, Next, .net</tspan>
-<tspan x="400" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, Tailwind</tspan>
-<tspan x="400" y="250" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Hindi</tspan>
-<tspan x="400" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Game Development</tspan>
-<tspan x="400" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">FreeTime</tspan>: <tspan class="valueColor">Thinking Useless Stuff</tspan>
-<tspan x="400" y="330" class="keyColor">Contact</tspan>:
-<tspan x="400" y="350">——————</tspan>
-<tspan x="400" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">abhinavthakurv22@gmail.com</tspan>
-<tspan x="400" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">linkedin.com/in/thakurabhinav22</tspan>
-<tspan x="400" y="410" class="keyColor">Portfolio</tspan>: <tspan class="valueColor"><a href = "https://iamabhinavthakur.vercel.app" >iamabhinavthakur.vercel.app </a></tspan>
-<tspan x="400" y="430" class="keyColor">Instagram</tspan>: <tspan class="valueColor">abhi9av_thakur</tspan>
+<text x="500" y="30" fill="#c9d1d9">
+<tspan x="500" y="30">thakurabhinav22</tspan>
+<tspan x="500" y="50">——————</tspan>
+<tspan x="500" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Arch Linux</tspan>
+<tspan x="500" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">4 Year+</tspan>
+<tspan x="500" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Asus Vivobook 15</tspan>
+<tspan x="500" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">6.18.7-arch1-2(64-bit)</tspan>
+<tspan x="500" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VS Code</tspan>
+<tspan x="500" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, C++, JavaScript, Kotlin, C, C# </tspan>
+  <tspan x="500" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Framework</tspan>: <tspan class="valueColor">React, Next, .net</tspan>
+<tspan x="500" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, Tailwind</tspan>
+<tspan x="500" y="250" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Hindi</tspan>
+<tspan x="500" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Game Development</tspan>
+<tspan x="500" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">FreeTime</tspan>: <tspan class="valueColor">Thinking Useless Stuff</tspan>
+<tspan x="500" y="330" class="keyColor">Contact</tspan>:
+<tspan x="500" y="350">——————</tspan>
+<tspan x="500" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">abhinavthakurv22@gmail.com</tspan>
+<tspan x="500" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">linkedin.com/in/thakurabhinav22</tspan>
+<tspan x="500" y="410" class="keyColor">Portfolio</tspan>: <tspan class="valueColor"><a href = "https://iamabhinavthakur.vercel.app" >iamabhinavthakur.vercel.app </a></tspan>
+<tspan x="500" y="430" class="keyColor">Instagram</tspan>: <tspan class="valueColor">abhi9av_thakur</tspan>
 
 </text>
 
