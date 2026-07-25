@@ -87,13 +87,13 @@ text, tspan {
 
 
 @keyframes randomFlicker {
-    0%, 94% { opacity: 1; filter: none; transform: none; }
-    95% { opacity: 0.9; filter: brightness(1.3) contrast(1.2); transform: translateX(-2px) skewX(1deg); }
+    0%, 90% { opacity: 1; filter: none; transform: none; }
+    91% { opacity: 0.8; filter: hue-rotate(90deg) saturate(150%); transform: translateX(-4px) skewX(2deg); }
+    92% { opacity: 1; filter: none; transform: none; }
+    94% { opacity: 0.5; filter: hue-rotate(-90deg) contrast(200%); transform: translateX(5px) skewX(-3deg); }
     96% { opacity: 1; filter: none; transform: none; }
-    97% { opacity: 0.8; filter: saturate(0.5) brightness(1.4); transform: translateX(3px) skewX(-1deg); }
-    98% { opacity: 1; filter: none; transform: none; }
-    99% { opacity: 0.9; filter: brightness(1.2); transform: translateX(-1px); }
-    100% { opacity: 1; filter: none; transform: none; }
+    97% { opacity: 0.7; filter: hue-rotate(180deg) saturate(200%); transform: translateX(-3px) skewX(1deg); }
+    99%, 100% { opacity: 1; filter: none; transform: none; }
 }
 .flicker {
     animation: randomFlicker 12s infinite;
@@ -101,13 +101,13 @@ text, tspan {
 }
 
 @keyframes scanlineFlicker {
-    0%, 94% { opacity: 0; transform: translateY(0); }
-    95% { opacity: 1; transform: translateY(15px); }
+    0%, 90% { opacity: 0; }
+    91% { opacity: 1; }
+    92% { opacity: 0; }
+    94% { opacity: 1; }
     96% { opacity: 0; }
-    97% { opacity: 1; transform: translateY(-20px); }
-    98% { opacity: 0; }
-    99% { opacity: 1; transform: translateY(10px); }
-    100% { opacity: 0; }
+    97% { opacity: 1; }
+    99%, 100% { opacity: 0; }
 }
 .scanline-overlay {
     animation: scanlineFlicker 12s infinite;
@@ -219,9 +219,9 @@ text, tspan {
 
 <defs>
   <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
-    <rect width="4" height="1" fill="#fff" fill-opacity="0.3"/>
-    <rect y="1" width="4" height="3" fill="#fff" fill-opacity="0.0"/>
+    <rect width="4" height="2" fill="#000" fill-opacity="0.4"/>
+    <rect y="2" width="4" height="2" fill="#000" fill-opacity="0.0"/>
   </pattern>
 </defs>
-<rect x="-10%" y="-10%" width="120%" height="120%" fill="url(#scanlines)" class="scanline-overlay" pointer-events="none"/>
+<rect width="100%" height="100%" fill="url(#scanlines)" class="scanline-overlay" pointer-events="none"/>
 \n</svg>
