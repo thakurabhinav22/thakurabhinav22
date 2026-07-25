@@ -87,13 +87,13 @@ text, tspan {
 
 
 @keyframes randomFlicker {
-    0%, 90% { opacity: 1; filter: none; transform: none; }
-    91% { opacity: 0.8; filter: hue-rotate(90deg) saturate(150%); transform: translateX(-4px) skewX(2deg); }
-    92% { opacity: 1; filter: none; transform: none; }
-    94% { opacity: 0.5; filter: hue-rotate(-90deg) contrast(200%); transform: translateX(5px) skewX(-3deg); }
-    96% { opacity: 1; filter: none; transform: none; }
-    97% { opacity: 0.7; filter: hue-rotate(180deg) saturate(200%); transform: translateX(-3px) skewX(1deg); }
-    99%, 100% { opacity: 1; filter: none; transform: none; }
+    0%, 90% { opacity: 1; filter: none; }
+    91% { opacity: 0.8; filter: hue-rotate(90deg) saturate(150%); }
+    92% { opacity: 1; filter: none; }
+    94% { opacity: 0.5; filter: hue-rotate(-90deg) contrast(200%); }
+    96% { opacity: 1; filter: none; }
+    97% { opacity: 0.7; filter: hue-rotate(180deg) saturate(200%); }
+    99%, 100% { opacity: 1; filter: none; }
 }
 .flicker {
     animation: randomFlicker 12s infinite;
