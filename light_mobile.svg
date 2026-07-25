@@ -155,6 +155,26 @@ text, tspan {
     animation: moveCursor 0.05s linear both;
 }
 
+
+@keyframes showCorrupted {
+    0%, 89% { opacity: 0; }
+    89.5% { opacity: 1; transform: translateY(-10px) skewX(20deg); }
+    90% { opacity: 0; }
+    92.5% { opacity: 1; transform: translateY(10px) skewX(-20deg); }
+    93% { opacity: 0; }
+    95.5% { opacity: 1; transform: translateY(0) skewX(0); }
+    96% { opacity: 0; }
+    100% { opacity: 0; }
+}
+.corrupted-msg {
+    animation: showCorrupted 7s infinite;
+    animation-delay: 5s;
+    opacity: 0;
+    pointer-events: none;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
 </style>
 <g class="flicker">
 <rect width="1000px" height="570px" fill="#f6f8fa" rx="15"/>
@@ -276,4 +296,10 @@ text, tspan {
 <rect width="100%" height="100%" fill="url(#scanlines)" class="scanline-overlay" pointer-events="none"/>
 
 </g>
+
+<g class="corrupted-msg">
+    <rect x="0" y="45%" width="100%" height="10%" fill="#ff0000" />
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-size="42px" fill="#ffffff" font-weight="bold" letter-spacing="4px">THIS PAGE IS CORRUPTED</text>
+</g>
+
 </svg>
