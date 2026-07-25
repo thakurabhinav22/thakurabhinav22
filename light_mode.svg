@@ -114,7 +114,17 @@ text, tspan {
     animation: cursorBlink 0.8s step-end 10, cursorHide 0.1s 8s forwards;
 }
 
-</style>
+
+@keyframes moveCursor {
+    0% { transform: translateX(0); opacity: 0; }
+    1% { transform: translateX(0); opacity: 1; }
+    99% { transform: translateX(900px); opacity: 1; }
+    100% { transform: translateX(910px); opacity: 0; }
+}
+.typing-cursor {
+    animation: moveCursor 0.05s linear both;
+}
+\n</style>
 <rect width="1400px" height="570px" fill="#f6f8fa" rx="15"/>
 
 <g id="window-controls">
@@ -201,7 +211,7 @@ text, tspan {
 <rect x="490" y="490" width="910" height="22" fill="#f6f8fa" class="cover cover-24" />
 <rect x="490" y="510" width="910" height="22" fill="#f6f8fa" class="cover cover-25" />
 <rect x="490" y="530" width="910" height="22" fill="#f6f8fa" class="cover cover-26" />
-</g>
+</g>\n<g id="typing-cursors">\n<rect x="490" y="13" width="10" height="18" fill="#24292f" class="typing-cursor cover-0" />\n<rect x="490" y="33" width="10" height="18" fill="#24292f" class="typing-cursor cover-1" />\n<rect x="490" y="53" width="10" height="18" fill="#24292f" class="typing-cursor cover-2" />\n<rect x="490" y="73" width="10" height="18" fill="#24292f" class="typing-cursor cover-3" />\n<rect x="490" y="93" width="10" height="18" fill="#24292f" class="typing-cursor cover-4" />\n<rect x="490" y="113" width="10" height="18" fill="#24292f" class="typing-cursor cover-5" />\n<rect x="490" y="133" width="10" height="18" fill="#24292f" class="typing-cursor cover-6" />\n<rect x="490" y="153" width="10" height="18" fill="#24292f" class="typing-cursor cover-7" />\n<rect x="490" y="173" width="10" height="18" fill="#24292f" class="typing-cursor cover-8" />\n<rect x="490" y="193" width="10" height="18" fill="#24292f" class="typing-cursor cover-9" />\n<rect x="490" y="213" width="10" height="18" fill="#24292f" class="typing-cursor cover-10" />\n<rect x="490" y="233" width="10" height="18" fill="#24292f" class="typing-cursor cover-11" />\n<rect x="490" y="253" width="10" height="18" fill="#24292f" class="typing-cursor cover-12" />\n<rect x="490" y="273" width="10" height="18" fill="#24292f" class="typing-cursor cover-13" />\n<rect x="490" y="293" width="10" height="18" fill="#24292f" class="typing-cursor cover-14" />\n<rect x="490" y="313" width="10" height="18" fill="#24292f" class="typing-cursor cover-15" />\n<rect x="490" y="333" width="10" height="18" fill="#24292f" class="typing-cursor cover-16" />\n<rect x="490" y="353" width="10" height="18" fill="#24292f" class="typing-cursor cover-17" />\n<rect x="490" y="373" width="10" height="18" fill="#24292f" class="typing-cursor cover-18" />\n<rect x="490" y="393" width="10" height="18" fill="#24292f" class="typing-cursor cover-19" />\n<rect x="490" y="413" width="10" height="18" fill="#24292f" class="typing-cursor cover-20" />\n<rect x="490" y="433" width="10" height="18" fill="#24292f" class="typing-cursor cover-21" />\n<rect x="490" y="453" width="10" height="18" fill="#24292f" class="typing-cursor cover-22" />\n<rect x="490" y="473" width="10" height="18" fill="#24292f" class="typing-cursor cover-23" />\n<rect x="490" y="493" width="10" height="18" fill="#24292f" class="typing-cursor cover-24" />\n<rect x="490" y="513" width="10" height="18" fill="#24292f" class="typing-cursor cover-25" />\n<rect x="490" y="533" width="10" height="18" fill="#24292f" class="typing-cursor cover-26" />\n</g>
 <g class="intro-splash">
     <clipPath id="pfp-clip">
         <circle cx="700.0" cy="265" r="75" />
