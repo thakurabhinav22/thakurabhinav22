@@ -7,7 +7,6 @@
 .delColor {fill: #f85149;}
 .commentColor {fill: #8b949e;}
 text, tspan {white-space: pre;}
-
 @keyframes introFade {
     0% { opacity: 0; }
     20% { opacity: 1; }
@@ -18,7 +17,6 @@ text, tspan {white-space: pre;}
     opacity: 0;
     animation: introFade 1.5s ease-in-out forwards;
 }
-
 @keyframes slideLogo {
     0% { transform: translateX(400px); opacity: 0; }
     10% { transform: translateX(400px); opacity: 1; }
@@ -30,7 +28,6 @@ text, tspan {white-space: pre;}
     animation: slideLogo 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards;
     animation-delay: 1.5s;
 }
-
 @keyframes uncover {
     0% { transform: scaleX(1); }
     100% { transform: scaleX(0); }
@@ -40,74 +37,36 @@ text, tspan {white-space: pre;}
     transform: scaleX(1);
     animation: uncover 0.05s steps(100) forwards;
 }
-
-@keyframes moveCursor {
-    0% { transform: translateX(0); visibility: visible; }
-    99.9% { transform: translateX(750px); visibility: visible; }
-    100% { transform: translateX(750px); visibility: hidden; }
-}
-.cursor {
-    visibility: hidden;
-    animation: moveCursor 0.05s steps(100) forwards;
 }
 .cover-0 { animation-delay: 3.00s; }
-.cursor-0 { animation-delay: 3.00s; }
 .cover-1 { animation-delay: 3.05s; }
-.cursor-1 { animation-delay: 3.05s; }
 .cover-2 { animation-delay: 3.10s; }
-.cursor-2 { animation-delay: 3.10s; }
 .cover-3 { animation-delay: 3.15s; }
-.cursor-3 { animation-delay: 3.15s; }
 .cover-4 { animation-delay: 3.20s; }
-.cursor-4 { animation-delay: 3.20s; }
 .cover-5 { animation-delay: 3.25s; }
-.cursor-5 { animation-delay: 3.25s; }
 .cover-6 { animation-delay: 3.30s; }
-.cursor-6 { animation-delay: 3.30s; }
 .cover-7 { animation-delay: 3.35s; }
-.cursor-7 { animation-delay: 3.35s; }
 .cover-8 { animation-delay: 3.40s; }
-.cursor-8 { animation-delay: 3.40s; }
 .cover-9 { animation-delay: 3.45s; }
-.cursor-9 { animation-delay: 3.45s; }
 .cover-10 { animation-delay: 3.50s; }
-.cursor-10 { animation-delay: 3.50s; }
 .cover-11 { animation-delay: 3.55s; }
-.cursor-11 { animation-delay: 3.55s; }
 .cover-12 { animation-delay: 3.60s; }
-.cursor-12 { animation-delay: 3.60s; }
 .cover-13 { animation-delay: 3.65s; }
-.cursor-13 { animation-delay: 3.65s; }
 .cover-14 { animation-delay: 3.70s; }
-.cursor-14 { animation-delay: 3.70s; }
 .cover-15 { animation-delay: 3.75s; }
-.cursor-15 { animation-delay: 3.75s; }
 .cover-16 { animation-delay: 3.80s; }
-.cursor-16 { animation-delay: 3.80s; }
 .cover-17 { animation-delay: 3.85s; }
-.cursor-17 { animation-delay: 3.85s; }
 .cover-18 { animation-delay: 3.90s; }
-.cursor-18 { animation-delay: 3.90s; }
 .cover-19 { animation-delay: 3.95s; }
-.cursor-19 { animation-delay: 3.95s; }
 .cover-20 { animation-delay: 4.00s; }
-.cursor-20 { animation-delay: 4.00s; }
 .cover-21 { animation-delay: 4.05s; }
-.cursor-21 { animation-delay: 4.05s; }
 .cover-22 { animation-delay: 4.10s; }
-.cursor-22 { animation-delay: 4.10s; }
 .cover-23 { animation-delay: 4.15s; }
-.cursor-23 { animation-delay: 4.15s; }
 .cover-24 { animation-delay: 4.20s; }
-.cursor-24 { animation-delay: 4.20s; }
 .cover-25 { animation-delay: 4.25s; }
-.cursor-25 { animation-delay: 4.25s; }
 .cover-26 { animation-delay: 4.30s; }
-.cursor-26 { animation-delay: 4.30s; }
 </style>
-
 <rect width="800px" height="570px" fill="#161b22" rx="15"/>
-
 <text x="15" y="30" fill="#c9d1d9">
 <tspan x="15" y="30">thakurabhinav22 -———————————————————————————————————————————-—--------------</tspan>
 <tspan x="15" y="50">. </tspan><tspan class="keyColor">OS</tspan>:<tspan> ........................................................... </tspan><tspan class="valueColor">Arch Linux</tspan>
@@ -134,14 +93,9 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="470">. </tspan><tspan class="keyColor">Repos</tspan>:<tspan> ........................ </tspan><tspan class="valueColor">71</tspan><tspan> | </tspan><tspan class="keyColor">Stars</tspan>:<tspan> ............................ </tspan><tspan class="valueColor">2</tspan>
 <tspan x="15" y="490">. </tspan><tspan class="keyColor">Commits</tspan>:<tspan> ...................... </tspan><tspan class="valueColor">1287</tspan><tspan> | </tspan><tspan class="keyColor">Followers</tspan>:<tspan> ...................... </tspan><tspan class="valueColor">5</tspan>
 <tspan x="15" y="510">. </tspan><tspan class="keyColor">Lines of Code</tspan>:<tspan> ......................... </tspan><tspan class="valueColor">156,792</tspan><tspan> ( </tspan><tspan class="addColor">123,456++</tspan><tspan>,   </tspan><tspan class="delColor">33,336--</tspan><tspan> )</tspan>
-
 <tspan x="15" y="530">.</tspan>
 <tspan x="15" y="550">. </tspan><tspan class="commentColor">....................................................... Last updated: 2026-07-26</tspan>
 </text>
-
-
-
-
 <g id="covers">
 <rect x="15" y="15" width="750" height="22" fill="#161b22" class="cover cover-0" />
 <rect x="15" y="35" width="750" height="22" fill="#161b22" class="cover cover-1" />
@@ -170,35 +124,6 @@ text, tspan {white-space: pre;}
 <rect x="15" y="495" width="750" height="22" fill="#161b22" class="cover cover-24" />
 <rect x="15" y="515" width="750" height="22" fill="#161b22" class="cover cover-25" />
 <rect x="15" y="535" width="750" height="22" fill="#161b22" class="cover cover-26" />
-</g>
-<g id="cursors">
-<rect x="15" y="15" width="10" height="22" fill="#3fb950" class="cursor cursor-0" />
-<rect x="15" y="35" width="10" height="22" fill="#3fb950" class="cursor cursor-1" />
-<rect x="15" y="55" width="10" height="22" fill="#3fb950" class="cursor cursor-2" />
-<rect x="15" y="75" width="10" height="22" fill="#3fb950" class="cursor cursor-3" />
-<rect x="15" y="95" width="10" height="22" fill="#3fb950" class="cursor cursor-4" />
-<rect x="15" y="115" width="10" height="22" fill="#3fb950" class="cursor cursor-5" />
-<rect x="15" y="135" width="10" height="22" fill="#3fb950" class="cursor cursor-6" />
-<rect x="15" y="155" width="10" height="22" fill="#3fb950" class="cursor cursor-7" />
-<rect x="15" y="175" width="10" height="22" fill="#3fb950" class="cursor cursor-8" />
-<rect x="15" y="195" width="10" height="22" fill="#3fb950" class="cursor cursor-9" />
-<rect x="15" y="215" width="10" height="22" fill="#3fb950" class="cursor cursor-10" />
-<rect x="15" y="235" width="10" height="22" fill="#3fb950" class="cursor cursor-11" />
-<rect x="15" y="255" width="10" height="22" fill="#3fb950" class="cursor cursor-12" />
-<rect x="15" y="275" width="10" height="22" fill="#3fb950" class="cursor cursor-13" />
-<rect x="15" y="295" width="10" height="22" fill="#3fb950" class="cursor cursor-14" />
-<rect x="15" y="315" width="10" height="22" fill="#3fb950" class="cursor cursor-15" />
-<rect x="15" y="335" width="10" height="22" fill="#3fb950" class="cursor cursor-16" />
-<rect x="15" y="355" width="10" height="22" fill="#3fb950" class="cursor cursor-17" />
-<rect x="15" y="375" width="10" height="22" fill="#3fb950" class="cursor cursor-18" />
-<rect x="15" y="395" width="10" height="22" fill="#3fb950" class="cursor cursor-19" />
-<rect x="15" y="415" width="10" height="22" fill="#3fb950" class="cursor cursor-20" />
-<rect x="15" y="435" width="10" height="22" fill="#3fb950" class="cursor cursor-21" />
-<rect x="15" y="455" width="10" height="22" fill="#3fb950" class="cursor cursor-22" />
-<rect x="15" y="475" width="10" height="22" fill="#3fb950" class="cursor cursor-23" />
-<rect x="15" y="495" width="10" height="22" fill="#3fb950" class="cursor cursor-24" />
-<rect x="15" y="515" width="10" height="22" fill="#3fb950" class="cursor cursor-25" />
-<rect x="15" y="535" width="10" height="22" fill="#3fb950" class="cursor cursor-26" />
 </g>
 <g class="intro-splash">
     <clipPath id="pfp-clip">
