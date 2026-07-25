@@ -165,113 +165,113 @@ text, tspan {
   <circle cx="60" cy="20" r="6" fill="#27c93f" class="window-btn btn-green"/>
 </g>
 
-<text x="15" y="30" font-weight="bold" font-size="11px" class="ascii">
-<tspan x="15" y="85" fill="#ff595e">                   -`</tspan>
-<tspan x="15" y="99" fill="#ff6d59">                  .o+`</tspan>
-<tspan x="15" y="113" fill="#ff8254">                 `ooo/</tspan>
-<tspan x="15" y="127" fill="#ff964f">                `+oooo:</tspan>
-<tspan x="15" y="141" fill="#ffaa4a">               `+oooooo:</tspan>
-<tspan x="15" y="155" fill="#ffca3a">               -+oooooo+:</tspan>
-<tspan x="15" y="169" fill="#d4d53f">             `/:-:++oooo+:</tspan>
-<tspan x="15" y="183" fill="#a9e044">            `/++++/+++++++:</tspan>
-<tspan x="15" y="197" fill="#8ac926">           `/++++++++++++++:</tspan>
-<tspan x="15" y="211" fill="#5bc44a">          `/+++ooooooooooooo/`</tspan>
-<tspan x="15" y="225" fill="#2ebf6e">         ./ooosssso++osssssso+`</tspan>
-<tspan x="15" y="239" fill="#00b992">        .oossssso-````/ossssss+`</tspan>
-<tspan x="15" y="253" fill="#1982c4">       -osssssso.      :ssssssso.</tspan>
-<tspan x="15" y="267" fill="#2f71c4">      :osssssss/        osssso+++.</tspan>
-<tspan x="15" y="281" fill="#425fc3">     /ossssssss/        +ssssooo/-</tspan>
-<tspan x="15" y="295" fill="#554dc3">   `/ossssso+/:-        -:/+osssso+-</tspan>
-<tspan x="15" y="309" fill="#6a4c93">  `+sso+:-`                 `.-/+oso:</tspan>
-<tspan x="15" y="323" fill="#834685"> `++:.                           `-/+/</tspan>
-<tspan x="15" y="337" fill="#9c3f77"> .`                                 `/</tspan>
+<text x="40" y="30" font-weight="bold" class="ascii">
+<tspan x="40" y="85" fill="#ff595e">                   -`</tspan>
+<tspan x="40" y="105" fill="#ff6d59">                  .o+`</tspan>
+<tspan x="40" y="125" fill="#ff8254">                 `ooo/</tspan>
+<tspan x="40" y="145" fill="#ff964f">                `+oooo:</tspan>
+<tspan x="40" y="165" fill="#ffaa4a">               `+oooooo:</tspan>
+<tspan x="40" y="185" fill="#ffca3a">               -+oooooo+:</tspan>
+<tspan x="40" y="205" fill="#d4d53f">             `/:-:++oooo+:</tspan>
+<tspan x="40" y="225" fill="#a9e044">            `/++++/+++++++:</tspan>
+<tspan x="40" y="245" fill="#8ac926">           `/++++++++++++++:</tspan>
+<tspan x="40" y="265" fill="#5bc44a">          `/+++ooooooooooooo/`</tspan>
+<tspan x="40" y="285" fill="#2ebf6e">         ./ooosssso++osssssso+`</tspan>
+<tspan x="40" y="305" fill="#00b992">        .oossssso-````/ossssss+`</tspan>
+<tspan x="40" y="325" fill="#1982c4">       -osssssso.      :ssssssso.</tspan>
+<tspan x="40" y="345" fill="#2f71c4">      :osssssss/        osssso+++.</tspan>
+<tspan x="40" y="365" fill="#425fc3">     /ossssssss/        +ssssooo/-</tspan>
+<tspan x="40" y="385" fill="#554dc3">   `/ossssso+/:-        -:/+osssso+-</tspan>
+<tspan x="40" y="405" fill="#6a4c93">  `+sso+:-`                 `.-/+oso:</tspan>
+<tspan x="40" y="425" fill="#834685"> `++:.                           `-/+/</tspan>
+<tspan x="40" y="445" fill="#9c3f77"> .`                                 `/</tspan>
 </text>
-<text x="340" y="30" fill="#c9d1d9" font-size="18px">
-<tspan x="340" y="30">@thakurabhinav22 -————————————————————————————————————————————————————</tspan>
-<tspan x="340" y="52">. </tspan><tspan class="keyColor">OS</tspan>:<tspan> ................................................... </tspan><tspan class="valueColor">Arch Linux</tspan>
-<tspan x="340" y="74">. </tspan><tspan class="keyColor">Uptime</tspan>:<tspan> .................................................. </tspan><tspan class="valueColor">4 Year+</tspan>
-<tspan x="340" y="96">. </tspan><tspan class="keyColor">Host</tspan>:<tspan> ........................................... </tspan><tspan class="valueColor">Asus Vivobook 15</tspan>
-<tspan x="340" y="118">. </tspan><tspan class="keyColor">Kernel</tspan>:<tspan> ................................... </tspan><tspan class="valueColor">6.18.7-arch1-2(64-bit)</tspan>
-<tspan x="340" y="140">. </tspan><tspan class="keyColor">IDE</tspan>:<tspan> ..................................................... </tspan><tspan class="valueColor">VS Code</tspan>
-<tspan x="340" y="162">.</tspan>
-<tspan x="340" y="184">. </tspan><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>:<tspan> ...... </tspan><tspan class="valueColor">Java, C++, JavaScript, Kotlin, C, C#</tspan>
-<tspan x="340" y="206">. </tspan><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">Framework</tspan>:<tspan> ........................... </tspan><tspan class="valueColor">React, Next, .net</tspan>
-<tspan x="340" y="228">. </tspan><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>:<tspan> ............... </tspan><tspan class="valueColor">HTML, CSS, JSON, XML, Tailwind</tspan>
-<tspan x="340" y="250">. </tspan><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>:<tspan> ................................... </tspan><tspan class="valueColor">English, Hindi</tspan>
-<tspan x="340" y="272">.</tspan>
-<tspan x="340" y="294">. </tspan><tspan class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>:<tspan> ............................... </tspan><tspan class="valueColor">Game Development</tspan>
-<tspan x="340" y="316">. </tspan><tspan class="keyColor">Hobbies</tspan>.<tspan class="keyColor">FreeTime</tspan>:<tspan> ......................... </tspan><tspan class="valueColor">Thinking Useless Stuff</tspan>
-<tspan x="340" y="338">.</tspan>
-<tspan x="340" y="360">- Contact  -————————————————————————————————————————————————————————————————</tspan>
-<tspan x="340" y="382">. </tspan><tspan class="keyColor">Email</tspan>:<tspan> ................................ </tspan><tspan class="valueColor">abhinavthakurv22@gmail.com</tspan>
-<tspan x="340" y="404">. </tspan><tspan class="keyColor">LinkedIn</tspan>:<tspan> ........................ </tspan><tspan class="valueColor">linkedin.com/in/thakurabhinav22</tspan>
-<tspan x="340" y="426">. </tspan><tspan class="keyColor">Portfolio</tspan>:<tspan> ........................... </tspan><tspan class="valueColor">iamabhinavthakur.vercel.app</tspan>
-<tspan x="340" y="448">. </tspan><tspan class="keyColor">Instagram</tspan>:<tspan> ......................................... </tspan><tspan class="valueColor">abhi9av_thakur</tspan>
-<tspan x="340" y="470">.</tspan>
-<tspan x="340" y="492">- GitHub Stats  -—————————————————————————————————————————————————————</tspan>
-<tspan x="340" y="514">. </tspan><tspan class="keyColor">Repos</tspan>:<tspan> ........................... </tspan><tspan class="valueColor">71</tspan><tspan>  |  </tspan><tspan class="keyColor">Stars</tspan>:<tspan> ................. </tspan><tspan class="valueColor">2</tspan>
-<tspan x="340" y="536">. </tspan><tspan class="keyColor">Commits</tspan>:<tspan> ....................... </tspan><tspan class="valueColor">1287</tspan><tspan>  |  </tspan><tspan class="keyColor">Followers</tspan>:<tspan> ............. </tspan><tspan class="valueColor">5</tspan>
-<tspan x="340" y="558">. </tspan><tspan class="keyColor">Lines of Code</tspan>:<tspan> ................. </tspan><tspan class="valueColor">156,792</tspan><tspan>  ( </tspan><tspan class="addColor">123,456++</tspan><tspan>,  </tspan><tspan class="delColor">33,336--</tspan><tspan> )</tspan>
-<tspan x="340" y="580">.</tspan>
-<tspan x="340" y="602">. </tspan><tspan class="commentColor">......................................... Last updated: 2026-07-26</tspan>
+<text x="345" y="30" fill="#c9d1d9" font-size="18px">
+<tspan x="345" y="30">@thakurabhinav22 -————————————————————————————————————————————————————</tspan>
+<tspan x="345" y="52">. </tspan><tspan class="keyColor">OS</tspan>:<tspan> ................................................... </tspan><tspan class="valueColor">Arch Linux</tspan>
+<tspan x="345" y="74">. </tspan><tspan class="keyColor">Uptime</tspan>:<tspan> .................................................. </tspan><tspan class="valueColor">4 Year+</tspan>
+<tspan x="345" y="96">. </tspan><tspan class="keyColor">Host</tspan>:<tspan> ........................................... </tspan><tspan class="valueColor">Asus Vivobook 15</tspan>
+<tspan x="345" y="118">. </tspan><tspan class="keyColor">Kernel</tspan>:<tspan> ................................... </tspan><tspan class="valueColor">6.18.7-arch1-2(64-bit)</tspan>
+<tspan x="345" y="140">. </tspan><tspan class="keyColor">IDE</tspan>:<tspan> ..................................................... </tspan><tspan class="valueColor">VS Code</tspan>
+<tspan x="345" y="162">.</tspan>
+<tspan x="345" y="184">. </tspan><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>:<tspan> ...... </tspan><tspan class="valueColor">Java, C++, JavaScript, Kotlin, C, C#</tspan>
+<tspan x="345" y="206">. </tspan><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">Framework</tspan>:<tspan> ........................... </tspan><tspan class="valueColor">React, Next, .net</tspan>
+<tspan x="345" y="228">. </tspan><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>:<tspan> ............... </tspan><tspan class="valueColor">HTML, CSS, JSON, XML, Tailwind</tspan>
+<tspan x="345" y="250">. </tspan><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>:<tspan> ................................... </tspan><tspan class="valueColor">English, Hindi</tspan>
+<tspan x="345" y="272">.</tspan>
+<tspan x="345" y="294">. </tspan><tspan class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>:<tspan> ............................... </tspan><tspan class="valueColor">Game Development</tspan>
+<tspan x="345" y="316">. </tspan><tspan class="keyColor">Hobbies</tspan>.<tspan class="keyColor">FreeTime</tspan>:<tspan> ......................... </tspan><tspan class="valueColor">Thinking Useless Stuff</tspan>
+<tspan x="345" y="338">.</tspan>
+<tspan x="345" y="360">- Contact  -————————————————————————————————————————————————————————————————</tspan>
+<tspan x="345" y="382">. </tspan><tspan class="keyColor">Email</tspan>:<tspan> ................................ </tspan><tspan class="valueColor">abhinavthakurv22@gmail.com</tspan>
+<tspan x="345" y="404">. </tspan><tspan class="keyColor">LinkedIn</tspan>:<tspan> ........................ </tspan><tspan class="valueColor">linkedin.com/in/thakurabhinav22</tspan>
+<tspan x="345" y="426">. </tspan><tspan class="keyColor">Portfolio</tspan>:<tspan> ........................... </tspan><tspan class="valueColor">iamabhinavthakur.vercel.app</tspan>
+<tspan x="345" y="448">. </tspan><tspan class="keyColor">Instagram</tspan>:<tspan> ......................................... </tspan><tspan class="valueColor">abhi9av_thakur</tspan>
+<tspan x="345" y="470">.</tspan>
+<tspan x="345" y="492">- GitHub Stats  -—————————————————————————————————————————————————————</tspan>
+<tspan x="345" y="514">. </tspan><tspan class="keyColor">Repos</tspan>:<tspan> ........................... </tspan><tspan class="valueColor">71</tspan><tspan>  |  </tspan><tspan class="keyColor">Stars</tspan>:<tspan> ................. </tspan><tspan class="valueColor">2</tspan>
+<tspan x="345" y="536">. </tspan><tspan class="keyColor">Commits</tspan>:<tspan> ....................... </tspan><tspan class="valueColor">1287</tspan><tspan>  |  </tspan><tspan class="keyColor">Followers</tspan>:<tspan> ............. </tspan><tspan class="valueColor">5</tspan>
+<tspan x="345" y="558">. </tspan><tspan class="keyColor">Lines of Code</tspan>:<tspan> ................. </tspan><tspan class="valueColor">156,792</tspan><tspan>  ( </tspan><tspan class="addColor">123,456++</tspan><tspan>,  </tspan><tspan class="delColor">33,336--</tspan><tspan> )</tspan>
+<tspan x="345" y="580">.</tspan>
+<tspan x="345" y="602">. </tspan><tspan class="commentColor">......................................... Last updated: 2026-07-26</tspan>
 </text>
 <g id="covers">
-<rect x="330" y="10" width="750" height="24" fill="#161b22" class="cover cover-0" />
-<rect x="330" y="32" width="750" height="24" fill="#161b22" class="cover cover-1" />
-<rect x="330" y="54" width="750" height="24" fill="#161b22" class="cover cover-2" />
-<rect x="330" y="76" width="750" height="24" fill="#161b22" class="cover cover-3" />
-<rect x="330" y="98" width="750" height="24" fill="#161b22" class="cover cover-4" />
-<rect x="330" y="120" width="750" height="24" fill="#161b22" class="cover cover-5" />
-<rect x="330" y="142" width="750" height="24" fill="#161b22" class="cover cover-6" />
-<rect x="330" y="164" width="750" height="24" fill="#161b22" class="cover cover-7" />
-<rect x="330" y="186" width="750" height="24" fill="#161b22" class="cover cover-8" />
-<rect x="330" y="208" width="750" height="24" fill="#161b22" class="cover cover-9" />
-<rect x="330" y="230" width="750" height="24" fill="#161b22" class="cover cover-10" />
-<rect x="330" y="252" width="750" height="24" fill="#161b22" class="cover cover-11" />
-<rect x="330" y="274" width="750" height="24" fill="#161b22" class="cover cover-12" />
-<rect x="330" y="296" width="750" height="24" fill="#161b22" class="cover cover-13" />
-<rect x="330" y="318" width="750" height="24" fill="#161b22" class="cover cover-14" />
-<rect x="330" y="340" width="750" height="24" fill="#161b22" class="cover cover-15" />
-<rect x="330" y="362" width="750" height="24" fill="#161b22" class="cover cover-16" />
-<rect x="330" y="384" width="750" height="24" fill="#161b22" class="cover cover-17" />
-<rect x="330" y="406" width="750" height="24" fill="#161b22" class="cover cover-18" />
-<rect x="330" y="428" width="750" height="24" fill="#161b22" class="cover cover-19" />
-<rect x="330" y="450" width="750" height="24" fill="#161b22" class="cover cover-20" />
-<rect x="330" y="472" width="750" height="24" fill="#161b22" class="cover cover-21" />
-<rect x="330" y="494" width="750" height="24" fill="#161b22" class="cover cover-22" />
-<rect x="330" y="516" width="750" height="24" fill="#161b22" class="cover cover-23" />
-<rect x="330" y="538" width="750" height="24" fill="#161b22" class="cover cover-24" />
-<rect x="330" y="560" width="750" height="24" fill="#161b22" class="cover cover-25" />
-<rect x="330" y="582" width="750" height="24" fill="#161b22" class="cover cover-26" />
+<rect x="335" y="10" width="750" height="24" fill="#161b22" class="cover cover-0" />
+<rect x="335" y="32" width="750" height="24" fill="#161b22" class="cover cover-1" />
+<rect x="335" y="54" width="750" height="24" fill="#161b22" class="cover cover-2" />
+<rect x="335" y="76" width="750" height="24" fill="#161b22" class="cover cover-3" />
+<rect x="335" y="98" width="750" height="24" fill="#161b22" class="cover cover-4" />
+<rect x="335" y="120" width="750" height="24" fill="#161b22" class="cover cover-5" />
+<rect x="335" y="142" width="750" height="24" fill="#161b22" class="cover cover-6" />
+<rect x="335" y="164" width="750" height="24" fill="#161b22" class="cover cover-7" />
+<rect x="335" y="186" width="750" height="24" fill="#161b22" class="cover cover-8" />
+<rect x="335" y="208" width="750" height="24" fill="#161b22" class="cover cover-9" />
+<rect x="335" y="230" width="750" height="24" fill="#161b22" class="cover cover-10" />
+<rect x="335" y="252" width="750" height="24" fill="#161b22" class="cover cover-11" />
+<rect x="335" y="274" width="750" height="24" fill="#161b22" class="cover cover-12" />
+<rect x="335" y="296" width="750" height="24" fill="#161b22" class="cover cover-13" />
+<rect x="335" y="318" width="750" height="24" fill="#161b22" class="cover cover-14" />
+<rect x="335" y="340" width="750" height="24" fill="#161b22" class="cover cover-15" />
+<rect x="335" y="362" width="750" height="24" fill="#161b22" class="cover cover-16" />
+<rect x="335" y="384" width="750" height="24" fill="#161b22" class="cover cover-17" />
+<rect x="335" y="406" width="750" height="24" fill="#161b22" class="cover cover-18" />
+<rect x="335" y="428" width="750" height="24" fill="#161b22" class="cover cover-19" />
+<rect x="335" y="450" width="750" height="24" fill="#161b22" class="cover cover-20" />
+<rect x="335" y="472" width="750" height="24" fill="#161b22" class="cover cover-21" />
+<rect x="335" y="494" width="750" height="24" fill="#161b22" class="cover cover-22" />
+<rect x="335" y="516" width="750" height="24" fill="#161b22" class="cover cover-23" />
+<rect x="335" y="538" width="750" height="24" fill="#161b22" class="cover cover-24" />
+<rect x="335" y="560" width="750" height="24" fill="#161b22" class="cover cover-25" />
+<rect x="335" y="582" width="750" height="24" fill="#161b22" class="cover cover-26" />
 </g>
 <g id="typing-cursors" style="display: none;">
-<rect x="330" y="13" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-0" />
-<rect x="330" y="35" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-1" />
-<rect x="330" y="57" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-2" />
-<rect x="330" y="79" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-3" />
-<rect x="330" y="101" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-4" />
-<rect x="330" y="123" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-5" />
-<rect x="330" y="145" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-6" />
-<rect x="330" y="167" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-7" />
-<rect x="330" y="189" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-8" />
-<rect x="330" y="211" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-9" />
-<rect x="330" y="233" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-10" />
-<rect x="330" y="255" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-11" />
-<rect x="330" y="277" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-12" />
-<rect x="330" y="299" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-13" />
-<rect x="330" y="321" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-14" />
-<rect x="330" y="343" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-15" />
-<rect x="330" y="365" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-16" />
-<rect x="330" y="387" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-17" />
-<rect x="330" y="409" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-18" />
-<rect x="330" y="431" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-19" />
-<rect x="330" y="453" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-20" />
-<rect x="330" y="475" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-21" />
-<rect x="330" y="497" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-22" />
-<rect x="330" y="519" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-23" />
-<rect x="330" y="541" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-24" />
-<rect x="330" y="563" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-25" />
-<rect x="330" y="585" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-26" />
+<rect x="335" y="13" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-0" />
+<rect x="335" y="35" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-1" />
+<rect x="335" y="57" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-2" />
+<rect x="335" y="79" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-3" />
+<rect x="335" y="101" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-4" />
+<rect x="335" y="123" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-5" />
+<rect x="335" y="145" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-6" />
+<rect x="335" y="167" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-7" />
+<rect x="335" y="189" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-8" />
+<rect x="335" y="211" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-9" />
+<rect x="335" y="233" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-10" />
+<rect x="335" y="255" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-11" />
+<rect x="335" y="277" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-12" />
+<rect x="335" y="299" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-13" />
+<rect x="335" y="321" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-14" />
+<rect x="335" y="343" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-15" />
+<rect x="335" y="365" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-16" />
+<rect x="335" y="387" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-17" />
+<rect x="335" y="409" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-18" />
+<rect x="335" y="431" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-19" />
+<rect x="335" y="453" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-20" />
+<rect x="335" y="475" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-21" />
+<rect x="335" y="497" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-22" />
+<rect x="335" y="519" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-23" />
+<rect x="335" y="541" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-24" />
+<rect x="335" y="563" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-25" />
+<rect x="335" y="585" width="10" height="22" fill="#c9d1d9" class="typing-cursor cover-26" />
 </g>
 <g class="intro-splash">
     <clipPath id="pfp-clip">
