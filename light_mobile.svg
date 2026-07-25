@@ -97,33 +97,33 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="550">. </tspan><tspan class="commentColor">....................................................... Last updated: 2026-07-26</tspan>
 </text>
 <g id="covers">
-<rect x="15" y="15" width="750" height="22" fill="#f6f8fa" class="cover cover-0" />
-<rect x="15" y="35" width="750" height="22" fill="#f6f8fa" class="cover cover-1" />
-<rect x="15" y="55" width="750" height="22" fill="#f6f8fa" class="cover cover-2" />
-<rect x="15" y="75" width="750" height="22" fill="#f6f8fa" class="cover cover-3" />
-<rect x="15" y="95" width="750" height="22" fill="#f6f8fa" class="cover cover-4" />
-<rect x="15" y="115" width="750" height="22" fill="#f6f8fa" class="cover cover-5" />
-<rect x="15" y="135" width="750" height="22" fill="#f6f8fa" class="cover cover-6" />
-<rect x="15" y="155" width="750" height="22" fill="#f6f8fa" class="cover cover-7" />
-<rect x="15" y="175" width="750" height="22" fill="#f6f8fa" class="cover cover-8" />
-<rect x="15" y="195" width="750" height="22" fill="#f6f8fa" class="cover cover-9" />
-<rect x="15" y="215" width="750" height="22" fill="#f6f8fa" class="cover cover-10" />
-<rect x="15" y="235" width="750" height="22" fill="#f6f8fa" class="cover cover-11" />
-<rect x="15" y="255" width="750" height="22" fill="#f6f8fa" class="cover cover-12" />
-<rect x="15" y="275" width="750" height="22" fill="#f6f8fa" class="cover cover-13" />
-<rect x="15" y="295" width="750" height="22" fill="#f6f8fa" class="cover cover-14" />
-<rect x="15" y="315" width="750" height="22" fill="#f6f8fa" class="cover cover-15" />
-<rect x="15" y="335" width="750" height="22" fill="#f6f8fa" class="cover cover-16" />
-<rect x="15" y="355" width="750" height="22" fill="#f6f8fa" class="cover cover-17" />
-<rect x="15" y="375" width="750" height="22" fill="#f6f8fa" class="cover cover-18" />
-<rect x="15" y="395" width="750" height="22" fill="#f6f8fa" class="cover cover-19" />
-<rect x="15" y="415" width="750" height="22" fill="#f6f8fa" class="cover cover-20" />
-<rect x="15" y="435" width="750" height="22" fill="#f6f8fa" class="cover cover-21" />
-<rect x="15" y="455" width="750" height="22" fill="#f6f8fa" class="cover cover-22" />
-<rect x="15" y="475" width="750" height="22" fill="#f6f8fa" class="cover cover-23" />
-<rect x="15" y="495" width="750" height="22" fill="#f6f8fa" class="cover cover-24" />
-<rect x="15" y="515" width="750" height="22" fill="#f6f8fa" class="cover cover-25" />
-<rect x="15" y="535" width="750" height="22" fill="#f6f8fa" class="cover cover-26" />
+<rect x="15" y="5" width="750" height="28" fill="#f6f8fa" class="cover cover-0" />
+<rect x="15" y="25" width="750" height="28" fill="#f6f8fa" class="cover cover-1" />
+<rect x="15" y="45" width="750" height="28" fill="#f6f8fa" class="cover cover-2" />
+<rect x="15" y="65" width="750" height="28" fill="#f6f8fa" class="cover cover-3" />
+<rect x="15" y="85" width="750" height="28" fill="#f6f8fa" class="cover cover-4" />
+<rect x="15" y="105" width="750" height="28" fill="#f6f8fa" class="cover cover-5" />
+<rect x="15" y="125" width="750" height="28" fill="#f6f8fa" class="cover cover-6" />
+<rect x="15" y="145" width="750" height="28" fill="#f6f8fa" class="cover cover-7" />
+<rect x="15" y="165" width="750" height="28" fill="#f6f8fa" class="cover cover-8" />
+<rect x="15" y="185" width="750" height="28" fill="#f6f8fa" class="cover cover-9" />
+<rect x="15" y="205" width="750" height="28" fill="#f6f8fa" class="cover cover-10" />
+<rect x="15" y="225" width="750" height="28" fill="#f6f8fa" class="cover cover-11" />
+<rect x="15" y="245" width="750" height="28" fill="#f6f8fa" class="cover cover-12" />
+<rect x="15" y="265" width="750" height="28" fill="#f6f8fa" class="cover cover-13" />
+<rect x="15" y="285" width="750" height="28" fill="#f6f8fa" class="cover cover-14" />
+<rect x="15" y="305" width="750" height="28" fill="#f6f8fa" class="cover cover-15" />
+<rect x="15" y="325" width="750" height="28" fill="#f6f8fa" class="cover cover-16" />
+<rect x="15" y="345" width="750" height="28" fill="#f6f8fa" class="cover cover-17" />
+<rect x="15" y="365" width="750" height="28" fill="#f6f8fa" class="cover cover-18" />
+<rect x="15" y="385" width="750" height="28" fill="#f6f8fa" class="cover cover-19" />
+<rect x="15" y="405" width="750" height="28" fill="#f6f8fa" class="cover cover-20" />
+<rect x="15" y="425" width="750" height="28" fill="#f6f8fa" class="cover cover-21" />
+<rect x="15" y="445" width="750" height="28" fill="#f6f8fa" class="cover cover-22" />
+<rect x="15" y="465" width="750" height="28" fill="#f6f8fa" class="cover cover-23" />
+<rect x="15" y="485" width="750" height="28" fill="#f6f8fa" class="cover cover-24" />
+<rect x="15" y="505" width="750" height="28" fill="#f6f8fa" class="cover cover-25" />
+<rect x="15" y="525" width="750" height="28" fill="#f6f8fa" class="cover cover-26" />
 </g>
 <g class="intro-splash">
     <clipPath id="pfp-clip">
